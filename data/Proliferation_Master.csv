@@ -1,0 +1,733 @@
+Entry Number ,Region ,Seeker,Supplier,Paltform Model,Platform  Type,Year of Interest ,Year of Order,Year of First Delivery,"Year of  Identification, Completion, or Cancellation",Status,Source 1,Source 2,Source 3,Comments
+1,North America,United States,Israel,Hunter,UAV,,1992.0,1993.0,1996.0,Yes,SIPRI,,,"SIPRI Comments: ""Deal incl. 7 ground-control systems; ordered via U.S. company; possibly assembled in the United States; U.S. designation RQ-5A"""
+2,Indo-Pacific,Singapore,Israel,Searcher Mk II,UAV,,1993.0,1994.0,1995.0,Yes,SIPRI,,,
+3,Europe,France,Israel,Hunter,UAV,,1995.0,1997.0,1997.0,Yes,SIPRI,,,"SIPRI Comments: ""$50m deal"""
+4,Europe,Netherlands,France,Sperwer,UAV,,1995.0,2000.0,2001.0,Yes,SIPRI,,,"SIPRI Comments: ""$82m deal; retired in 2011"""
+5,Indo-Pacific,Sri Lanka,Israel,Scout,UAV,,1995.0,1998.0,1998.0,Yes,SIPRI,,,"SIPRI Comments: ""Secondhand but modernized before delivery; for use against LTTE rebels; $4.3m deal; Super Scout version"""
+6,Europe,Turkey,United States,Gnat-750,UAV,,1995.0,1995.0,1996.0,Yes,SIPRI,,,"SIPRI Comments: ""I-Gnat version"""
+7,Central,United Arab Emirates,South Africa,Seeker 2,UAV,,1995.0,1996.0,1996.0,Yes,SIPRI,,,"SIPRI Comments: ""Probably Seeker-2 version"""
+8,Africa,Algeria,South Africa,Seeker 2,UAV,,1996.0,1998.0,1999.0,Yes,SIPRI,DefenseWeb,,"From DefenseWeb: ""The Seeker II achieved a number of export sales, notably to Algeria and the UAE, who have used it successfully."" 
+SIPRI Comments: ""10 drones, $20m deal"" "
+9,Indo-Pacific,India,Israel,Searcher 1,UAV,,1996.0,1998.0,2000.0,Yes,SIPRI,,,
+10,Europe,Switzerland,Israel,Ranger,UAV,,1996.0,1998.0,2001.0,Yes,SIPRI,Air Force Technology,,"SIPRI Comments: ""For 4 ADS-84 UAV reconnaissance systems; incl. production in Switzerland"" "
+11,Indo-Pacific,India,Israel,Harpy,Loitering Munition,,1997.0,1999.0,2000.0,Yes,SIPRI,,,
+12,Europe,Romania,United States,Shadow-600,UAV,,1997.0,1999.0,2000.0,Yes,SIPRI,Aviation Week,Flight Global,"SIPRI Comments: ""$23m deal"""
+13,Indo-Pacific,South Korea,Israel,Harpy,Loitering Munition,,1997.0,1998.0,2000.0,Yes,SIPRI,,,
+14,Indo-Pacific,South Korea,Israel,Harpy,Loitering Munition,,1997.0,1998.0,2000.0,Yes,SIPRI,,,
+15,Europe,Belgium,Israel,Hunter,UAV,,1998.0,2001.0,2002.0,Yes,SIPRI,,,"SIPRI Comments: ""$73m deal; B-Hunter version"""
+16,South America,Chile,Israel,Harpy,Loitering Munition,,1998.0,1998.0,1999.0,Yes,SIPRI,,,
+17,Indo-Pacific,China,Israel,Harpy,Loitering Munition,,1998.0,1998.0,1999.0,Yes,SIPRI,,,
+18,Europe,Sweden,France,Sperwer,UAV,,1998.0,1999.0,2000.0,Yes,SIPRI,,,
+19,Europe,Turkey,United States,Gnat-750,UAV,,1998.0,,1998.0,Yes,SIPRI,,,"SIPRI Comments: ""I-Gnat version"""
+20,Europe,Denmark,France,Sperwer,UAV,,1999.0,2001.0,2002.0,Yes,SIPRI,,,"SIPRI Comments: ""$55m deal (incl. 2 launchers); Danish designation Trnfalken; inactive in 2006"""
+21,Europe,Finland,Israel,Ranger,UAV,,1999.0,2001.0,2001.0,Yes,SIPRI,,,"SIPRI Comments: ""$20m deal; ordered via Swiss company"""
+22,Indo-Pacific,India,Israel,Searcher Mk II,UAV,,1999.0,2001.0,2001.0,Yes,SIPRI,,,"SIPRI Comments: ""Part of $300m deal; Searcher 2 version; bought after experiences in 1999 fighting with Pakistan"""
+23,Europe,Turkey,Israel,Harpy,Loitering Munition,,1999.0,2001.0,2004.0,Yes,SIPRI,,,"SIPRI Comments: ""$76m deal"""
+24,Indo-Pacific,India,Israel,Heron,UAV,,2000.0,2001.0,2002.0,Yes,SIPRI,,,"SIPRI Comments: ""Possibly $90m deal"""
+25,Indo-Pacific,Indonesia,France,Fox,UAV,,2000.0,,2000.0,Yes,SIPRI ,,,"SIPRI Comments: ""Fox AT-1 version"""
+26,Europe,Romania,United States,Shadow-600,UAV,,2000.0,2001.0,2001.0,Yes,SIPRI,,,"SIPRI Comments: ""$7.5m deal"""
+27,Indo-Pacific,South Korea,United States,Shadow-400,UAV,,2000.0,2001.0,2002.0,Yes,SIPRI,,,
+28,Indo-Pacific,Sri Lanka,Israel,Scout,UAV,,2000.0,2001.0,2001.0,Yes,SIPRI,,,"SIPRI Comments: ""Super Scout version; for use against LTTE rebels"""
+29,Indo-Pacific,Sri Lanka,Israel,Searcher Mk II,UAV,,2000.0,2001.0,2001.0,Yes,SIPRI,,,"SIPRI Comments: ""Searcher 2 version; for use against LTTE rebels"""
+30,Indo-Pacific,Thailand,Israel,Searcher,UAV,,2000.0,2001.0,2001.0,Yes,SIPRI,,,"SIPRI Comments: ""$12m deal"""
+31,Central,Egypt,Austria,Camcopter S-100,UAV,,2001.0,,2002.0,Yes,SIPRI,,,"SIPRI Comments: ""Financed by U.S. Foreign Military Financing (FMF) aid"""
+32,Europe,France,Israel,Eagle,UAV,,2001.0,,2007.0,Yes,SIPRI,,,"SIPRI Comments: ""Système intérimaire de drone MALE (SIDM) program"""
+33,Indo-Pacific,India,Israel,Searcher Mk II,UAV,,2001.0,2002.0,2003.0,Yes,SIPRI,,,
+34,Europe,Italy,United States,RQ-1 Predator,UAV,,2001.0,2004.0,2004.0,Yes,SIPRI,,,"SIPRI Comments: ""$55m deal; RQ-1A version"""
+35,Indo-Pacific,Philippines,Israel,Blue Horizon,UAV,,2001.0,,2001.0,Yes,SIPRI,CSD Drone Databook,,"SIPRI Comments: ""$1–1.2m or $2–12m deal; for use against Abu Sayyaf and other Muslim rebels; possibly delivered from Singapore;"" Final status uncertain"
+36,Europe,Cyprus,Israel,Searcher,UAV,,2002.0,,2002.0,Yes,SIPRI,,,
+37,Europe,France,Germany,CL-289,UAV,,2002.0,,2002.0,Yes,SIPRI,,,"SIPRI Comments: ""Secondhand"""
+38,Europe,Greece,France,Sperwer,UAV,,2002.0,2004.0,2006.0,Yes,SIPRI,,,"SIPRI Comments: ""Part of EUR 36m ($35m) deal for 2 Sperwer UAV systems"""
+39,Indo-Pacific,India,Israel,Searcher Mk II,UAV,,2002.0,2003.0,2003.0,Yes,SIPRI,,,
+40,Central,United Arab Emirates,South Africa,Seeker 2,UAV,,2002.0,2003.0,2003.0,Yes,SIPRI,,,
+41,North America,Canada,France,Sperwer,UAV,,2003.0,,2003.0,Yes,SIPRI,,,"SIPRI Comments: ""CAN 34M ($24m) deal (incl. 2 ground control stations); originally 4 delivered but 2 more delivered after 2 crashed; for use in Afghanistan"""
+42,Africa,Cote d'Ivoire,Israel,Aerostar,UAV,,2003.0,2004.0,2004.0,Yes,SIPRI,,,
+43,Europe,Finland,Israel,Ranger,UAV,,2003.0,2005.0,2005.0,Yes,SIPRI,,,"SIPRI Comments: ""$20m deal; ordered via Swiss company; Ranger-2 version"""
+44,Indo-Pacific,India,Israel,Heron-MP,UAV,,2003.0,2005.0,2005.0,Yes,SIPRI,,,"SIPRI Comments: ""Maritime patrol UAV"""
+45,Indo-Pacific,India,Israel,Heron,UAV,,2003.0,2005.0,2006.0,Yes,SIPRI,,,
+46,Africa,Botswana ,Israel,Hermes-450,UAV,,2004.0,,,Additional Sources Required,Times Aerospace,,,
+47,Europe,Georgia,Israel,Aerostar,UAV,,2004.0,2005.0,2005.0,Yes,SIPRI,,,
+48,Europe,Italy,United States,RQ-1 Predator,UAV,,2004.0,2005.0,2005.0,Yes,SIPRI,Military Africa,,
+49,Central,Lebanon (Hezbollah),Iran,Mohajer-4,UAV,,2004.0,,2004.0,Yes,SIPRI,,,"SIPRI Comments: ""Probably Mohajer-4 version"""
+50,North America,United States,Israel,Aerostar,UAV,,2004.0,,2004.0,Yes,SIPRI,,,"SIPRI Comments: ""For training"""
+51,Indo-Pacific,Australia,Israel,Skylark I,UAV,,2005.0,,2005.0,Yes,Elbit Systems,Ynetnew.com,Press Release (via Defense Aerospace.com),"From Australian Department of Defence Press Release, Nov 2005 [Source 3]: ""[Australian] Defence Minister Robert Hill said four Skylark miniature UAVs will be deployed to assist the second rotation of the Al Muthanna Task Group (AMTG). A further two UAVs will remain in Australia for training and preparation purposes."""
+52,Europe,France,Israel,Heron,UAV,,2005.0,2009.0,2009.0,Yes,SIPRI,,,"SIPRI Comments: ""French designation Harfang (former SIDM program); equipped with French surveillance systems"""
+53,Central,Lebanon (Hezbollah),Iran,Ababil-T,Loitering Munition,,2005.0,2006.0,2006.0,Yes,SIPRI,Oryx,USIP,Referred to as Ababil 2-T by Oryx; USIP reports order in 2004
+54,Europe,Poland,Israel,Orbiter,UAV,,2005.0,,2006.0,Yes,Polish Language Source,Deagel.com,,
+55,Indo-Pacific,Singapore,Israel,Hermes-450,UAV,,2005.0,2006.0,2007.0,Yes,SIPRI,,,
+56,Europe,Turkey,Israel,Heron,UAV,,2005.0,2010.0,2010.0,Yes,SIPRI,,,"SIPRI Comments: ""$183m deal (offsets 30%); delivery delayed 2 years after complications with integration of Turkish systems"""
+57,Central,United Arab Emirates,South Korea,RemoEye-006,UAV,,2005.0,,,Additional Sources Required,Flight Global,,,"No subsequent reporting indicating completion of the deal—however, highly likely it was completed"
+58,Europe,United Kingdom,Israel,Hermes-450,Armed UAV,,2005.0,2012.0,2016.0,Yes,SIPRI,,,"No subsequent reporting indicating completion of the deal—however, highly likely it was completed"
+59,North America,Canada,France,Sperwer,UAV,,2006.0,,2006.0,Yes,SIPRI,,,"SIPRI Comments: ""CAN 15m deal; assembled from kits in Canada"""
+60,North America,Canada,Denmark,Sperwer,UAV,,2006.0,,2007.0,Yes,SIPRI,,,"SIPRI Comments: ""Secondhand (only few years old); for use in Afghanistan"""
+61,South America,Colombia,United States,ScanEagle,UAV,,2006.0,2006.0,2007.0,Yes,SIPRI,,,
+62,Europe,Croatia,Israel,Hermes-450,UAV,,2006.0,2007.0,2007.0,Yes,SIPRI,,,
+63,Europe,Greece,France,Sperwer,UAV,,2006.0,2007.0,2008.0,Yes,SIPRI,,,"SIPRI Comments: ""Part of 2 Sperwer UAV systems"""
+64,Indo-Pacific,India,Israel,Heron,UAV,,2006.0,2006.0,2007.0,Yes,SIPRI,,,"SIPRI Comments: ""Possibly $200–266m deal"""
+65,Indo-Pacific,Indonesia,Israel,Searcher Mk II,UAV,,2006.0,2012.0,2012.0,Yes,SIPRI,,,"SIPRI Comments: ""Searcher 2 version; ordered via Philippine company"""
+66,Europe,Netherlands,Germany,Aladin,UAV,,2006.0,,2006.0,Yes,Flight Global,Defense Industry Daily,FlightGlobal,"No confirmation of delivery, but Defense Industry Daily suggests quick deployment for SOF; FlightGlobal claims operationality and deployment in 2006"
+67,Africa,Nigeria,Israel,Aerostar,UAV,,2006.0,2007.0,2007.0,Yes,SIPRI ,,,"SIPRI Comments: ""Part of $260m deal; part of 3 Aerostar UAV systems"""
+68,Central,Pakistan,Germany,Luna,UAV,,2006.0,2007.0,2008.0,Yes,SIPRI,,,"SIPRI Comments: ""For 3 Luna UAV systems; delivery temporarily delayed after Pakistani state of emergency in 2007"""
+69,Central,Pakistan,Italy,Falco,UAV,,2006.0,2008.0,2009.0,Yes,SIPRI,,,"SIPRI Comments: ""Incl. assembly in Pakistan"""
+70,Indo-Pacific,Sri Lanka,Israel,Scout,UAV,,2006.0,2007.0,2007.0,Yes,SIPRI,,,"SIPRI Comments: ""Super Scout version"""
+71,Central,United Arab Emirates,Sweden,APID-55,UAV,,2006.0,2008.0,2009.0,Yes,SIPRI,,,
+72,Central,United Arab Emirates,Austria,Camcopter S-100,UAV,,2006.0,2006.0,2010.0,Yes,SIPRI,,,"SIPRI Comments: ""Incl. production of components and/or production under license in UAE; UAE designation al-Saber"""
+73,Europe,United Kingdom,United States,MQ-9 Reaper,Armed UAV,,2006.0,2007.0,2008.0,Yes,SIPRI,,,"SIPRI Comments: ""Part of $77m Project Dabinett; for use in Afghanistan"""
+74,Indo-Pacific,Australia,United States,ScanEagle,UAV,,2007.0,,2007.0,Yes,SIPRI,,,"SIPRI Comments: ""Leased for use in Iraq, Afghanistan, and Iraq"""
+75,Europe,Azerbaijan,Israel,Aerostar,UAV,,2007.0,2008.0,2008.0,Yes,SIPRI,,,
+76,Europe,Georgia,Israel,Hermes-450,UAV,,2007.0,,2007.0,Yes,SIPRI,,,
+77,Europe,Germany,United States,RQ-4A Global Hawk,UAV,,2007.0,,2013.0,No,GlobalHawk,,,Part of the Euro Hawk program; Germany canceled in May 2013
+78,Europe,Poland,Israel,Orbiter,UAV,,2007.0,,2008.0,Yes,Polish Language Source,Deagel,,
+79,Indo-Pacific,South Korea,Israel,Skylark II,UAV,,2007.0,,,Pending,Haaretz,Flight Global,Jerusalem Post,No reporting on delivery of Skylark systems. 
+80,Europe,Spain,Israel,Searcher Mk II,UAV,,2007.0,2007.0,2008.0,Yes,SIPRI,,,"SIPRI Comments: ""EUR 14m deal; Searcher 2 version; for use in Afghanistan"""
+81,Europe,Spain,United States,RQ-11 Raven,UAV,,2007.0,,2008.0,Yes,CSD Drone Databook,Defense Industry Daily,EL Pais ,
+82,Indo-Pacific,Sri Lanka,Israel,Blue Horizon,UAV,,2007.0,,2007.0,Yes,SIPRI,,,"SIPRI Comments: ""Blue Horizon-2 version"""
+83,Africa,Sudan,Iran,Ababil-3,UAV,,2007.0,,2008.0,Yes,SIPRI,Oryx,BBC,
+84,Europe,Turkey,Israel,Heron,UAV,,2007.0,,2007.0,Yes,SIPRI,,,"SIPRI Comments: ""Lease; $10m deal"""
+85,Europe,Turkey,Israel,Aerostar,UAV,,2007.0,2008.0,2008.0,Yes,SIPRI,,,"SIPRI Comments: ""Interim solution after delay in delivery of Heron UAV"""
+86,Europe,United Kingdom,Israel,Hermes-450,Armed UAV,,2007.0,,2007.0,Yes,SIPRI,,,"SIPRI Comments: ""$110m Project Lydian; for use in Iraq and Afghanistan"""
+87,South America,Venezuela,Iran,Mohajer-3,UAV,,2007.0,2012.0,2013.0,Yes,SIPRI,,,"SIPRI Comments: ""Probably Mohajer-3 version; Venezuelan designation probably Sant Arpia"" "
+88,South America,Venezuela,Iran,Mohajer-2,UAV,,2007.0,2012.0,,Yes,Oryx,USIP,,"From USIP: ""Venezuela: In 2007, Iran agreed to sell Venezuela assembly kits for Mohajer-2 surveillance drones, which have a range of 50 kilometers (31 miles) and are used for surveillance. By 2012, military engineers, trained in Iran, produced three drones. “We are continuing to make them... not just for military use,” President Hugo Chavez announced. The Venezuelan version of the Mohajer-2, renamed the Arpia-001, had only cameras but no weaponry and were for defensive purposes, Chavez said. “We don’t have any plans to harm anyone.” By 2013, the air force reportedly had about a dozen Mohajer-2s to surveil drug traffickers, patrol the border, and protect oil fields."""
+89,Indo-Pacific,Australia,Israel,Skylark I,UAV,,2008.0,,2008.0,Yes,Elbit Systems,FlightGlobal,,
+90,Europe,Azerbaijan,Israel,Hermes-450,UAV,,2008.0,2011.0,2013.0,Yes,SIPRI,,,
+91,North America,Canada,Israel,Heron,UAV,,2008.0,,2008.0,Yes,SIPRI,Canadian Army Today,,"Leased for two years while the Sperwer was phased out;
+SIPRI Comments: ""CAD 95m ($81m)  Project Noctua 2-year lease (extended until 2011); for use in Afghanistan; Canadian designation CU-170"""
+92,South America,Ecuador,Israel,Heron,UAV,,2008.0,2009.0,2009.0,Yes,SIPRI,,,"SIPRI Comments: ""Part of $23m deal"""
+93,South America,Ecuador,Israel,Searcher,UAV,,2008.0,2009.0,2009.0,Yes,SIPRI,,,"SIPRI Comments: ""Part of $23m deal"""
+94,Europe,Germany,United States,MQ-9 Reaper,Armed UAV,,2008.0,,,Additional Sources Required,DSCA Report ,Flight Global,,No subesequent reporting or documentation that Germany followed through with initial request
+95,Europe,Italy,United States,MQ-9 Reaper,UAV,,2008.0,2010.0,2010.0,Yes,SIPRI,,,"SIPRI Comments: ""RQ-9 (RQ-1B) version"""
+96,North America,Mexico,Israel,Hermes-450,UAV,,2008.0,2009.0,2009.0,Yes,SIPRI,,,"SIPRI Comments: ""Part of $25m deal"""
+97,Europe,Slovakia ,Israel,Skylark I-LE,UAV,,2008.0,,2009.0,Yes,UNROCA,Israeldefense.co,,
+98,Europe,Turkey,Israel,Searcher,UAV,,2008.0,,2008.0,Yes,SIPRI,,,"SIPRI Comments: ""Interim solution after delay in delivery of Heron UAV"""
+99,Europe,United Kingdom,United States,MQ-9 Reaper,Armed UAV,,2008.0,2009.0,2009.0,Yes,SIPRI,,,"SIPRI Comments: ""For use in Afghanistan"""
+100,Europe,United Kingdom,United States,MQ-9 Reaper,Armed UAV,,2008.0,2010.0,2010.0,Yes,SIPRI,,,"SIPRI Comments: ""For use in Afghanistan"""
+101,Indo-Pacific,Australia,Israel,Heron,UAV,,2009.0,,2009.0,Yes,SIPRI,,,"SIPRI Comments: ""'Project Nankeen; leased from producer via Canadian company; for use in Afghanistan"""
+102,Europe,Czechia,Israel,Skylark I-LE,UAV,,2009.0,,2009.0,Yes,Army Technology,Czech Military Review,,
+103,Europe,France,Israel,Heron,UAV,,2009.0,2010.0,2010.0,Yes,SIPRI,,,"SIPRI Comments: ""$34m deal (incl. 1 control station); French designation Harfang; equipped with French surveillance system"""
+104,Europe,Germany,Israel,Heron,UAV,,2009.0,2010.0,2011.0,Yes,SIPRI,,,"SIPRI Comments: ""'SAATEG-ZwL program; leased for use in Afghanistan"""
+105,Europe,Germany,Israel,Harop,Loitering Munition,,2009.0,2011.0,,Yes,Flight Global,Air Force Technology,The Jerusalem Post,Joint development with IAI and Rheinmetall 
+106,Indo-Pacific,India,Israel,Heron,UAV,,2009.0,,2013.0,Yes,SIPRI,,,"SIPRI Comments: ""INR 11.2b ($239) deal"""
+107,Indo-Pacific,India,Israel,Harop,Loitering Munition,,2009.0,2013.0,2014.0,Yes,SIPRI,Air Force Technology,,"SIPRI Comments: ""$100m deal"""
+108,Europe,Italy,United States,MQ-9 Reaper,UAV,,2009.0,2010.0,2010.0,Yes,SIPRI,,,"SIPRI Comments: ""$81m deal; RQ-9 (RQ-1B) version"""
+109,Africa,Libya,Austria,Camcopter S-100,UAV,,2009.0,,2011.0,Yes,SIPRI,,,
+110,Europe,Netherlands,Israel,Aerostar,UAV,,2009.0,,2009.0,Yes,SIPRI ,,,"SIPRI Comments: ""EUR 25–50m 18-month lease for use in Afghanistan; owned and operated by Israeli and UK company"""
+111,Central,Pakistan,Italy,Falco,UAV,,2009.0,2010.0,2011.0,Yes,SIPRI,,,"SIPRI Comments: ""Incl. production of components and assembly in Pakistan"""
+112,Indo-Pacific,Philippines,United States,Hunter,UAV,,2009.0,,2009.0,Yes,SIPRI,,,"SIPRI Comments: ""Secondhand"""
+113,Europe,Russia,Israel,Bird Eye 400,UAV,,2009.0,,2010.0,Yes,CSD Drone Databook ,UAS Vision,CNAS,
+114,Europe,Russia,Israel,I-View-150,UAV,,2009.0,2009.0,2010.0,Yes,SIPRI,,,"SIPRI Comments: ""$37m deal (part of $50–53m deal)"""
+115,Europe,Russia,Israel,Searcher Mk II,UAV,,2009.0,2009.0,2010.0,Yes,SIPRI,CSD Drone Databook,,"SIPRI Comments: ""$12m deal (part of $53m deal)"""
+116,Indo-Pacific,Thailand,Malaysia,Cyber Eye-2,UAV,,2009.0,,2009.0,Yes,SIPRI,,,"SIPRI Comments: ""Supplier uncertain (possibly from Australia via Malaysian company)"""
+117,Central,Turkmenistan,Russia,ZALA 421-04M,UAV,,2009.0,,2009.0,Yes,Oryx,Shephard Media,,"Documented by a few sources, not yet seen; also reported as ZALA 421-12"
+118,Central,United Arab Emirates,South Africa,Seeker 2,UAV,,2009.0,2010.0,2010.0,Yes,SIPRI,,,
+119,Indo-Pacific,Australia,United States,RQ-7 Shadow-200,UAV,,2010.0,2011.0,2012.0,Yes,SIPRI,,,"SIPRI Comments: ""AUD 175m ($157m) deal (incl. 4 control systems); for use in Afghanistan"" "
+120,Europe,Azerbaijan,Israel,Aerostar,UAV,,2010.0,2011.0,2012.0,Yes,SIPRI,,,"SIPRI Comments: ""Incl. production of components in Azerbaijan"""
+121,South America,Brazil,Israel,Hermes-450,UAV,,2010.0,2011.0,2011.0,Yes,SIPRI,,,"SIPRI Comments: ""Brazilian designation RQ-450"""
+122,Central,Egypt,China,ASN-209,UAV,,2010.0,2012.0,2014.0,Yes,SIPRI,,,"SIPRI Comments: ""Produced under license in Egypt"" "
+123,Europe,Estonia,United States,RQ-11 Raven,UAV,,2010.0,,2010.0,Yes,CSD Drone Databook,US Army Document,US Embassy Tallinn,
+124,Indo-Pacific,India,Israel,Heron-MP,UAV,,2010.0,2011.0,2011.0,Yes,SIPRI,,,"SIPRI Comments: ""Maritime patrol UAV"""
+125,Indo-Pacific,India,Israel,Searcher Mk II,UAV,,2010.0,2011.0,2011.0,Yes,SIPRI,,,
+126,Europe,Italy,United States,RQ-7 Shadow-200,UAV,,2010.0,2015.0,2015.0,Yes,SIPRI,,,"SIPRI Comments: ""EUR 51m deal; for 4 Shadow-200 UAV systems"" "
+127,Central,Jordan,Austria,Camcopter S-100,UAV,,2010.0,2011.0,2012.0,Yes,SIPRI,,,
+128,South America,Peru,Israel,MicroFalcon,UAV,,2010.0,,2011.0,Yes,CSD Drone Databook,Flight Global,,
+129,South America,Peru,Israel,Orbiter 2,UAV,,2010.0,,2011.0,Yes,CSD Drone Databook,Flight Global,,
+130,Europe,Poland,United States,ScanEagle,UAV,,2010.0,,2010.0,Yes,SIPRI,,,"SIPRI Comments: ""1-year lease for use in Afghanistan"""
+131,Europe,Poland,United States,ScanEagle,UAV,,2010.0,2011.0,2011.0,Yes,SIPRI,,,"SIPRI Comments: ""$7.2m aid; for use in Afghanistan"""
+132,Europe,Poland,Israel,Aerostar,UAV,,2010.0,,2012.0,No,Air Force Technology,Flight Global,,Canceled due to development timeline for ATOL capability
+133,Europe,Russia,Israel,Searcher Mk II,UAV,,2010.0,2013.0,2014.0,Yes,SIPRI,,,"SIPRI Comments: ""Searcher 2 version; assembled/prodcued in Russia; Russian designation Forpost"" "
+134,Central,Saudi Arabia,Germany,Luna,UAV,,2010.0,2011.0,2012.0,Yes,SIPRI,,,
+135,Indo-Pacific,Singapore,Israel,Heron,UAV,,2010.0,2012.0,2013.0,Yes,SIPRI,,,
+136,Europe,Sweden,United States,RQ-7 Shadow-200,UAV,,2010.0,2011.0,2011.0,Yes,SIPRI,,,"SIPRI Comments: ""$31m deal (part of $77m deal incl. 3-year training and support by Swedish company); Swedish designation AUV-3"""
+137,Central,Syria,Iran,Ababil-3,UAV,,2010.0,2011.0,2011.0,Yes,SIPRI,,,
+138,Central,Turkmenistan,Italy,Falco,UAV,,2010.0,2011.0,2011.0,Yes,SIPRI,Oryx,RAI News,"SIPRI Comments: ""EUR 8.7m deal; Falco-XN version"""
+139,Europe,United Kingdom,United States,MQ-9 Reaper,Armed UAV,,2010.0,2014.0,2014.0,Yes,SIPRI,,,"SIPRI Comments: ""For use in Afghanistan"""
+140,North America,United States,Austria,Camcopter S-100,UAV,,2010.0,2010.0,2011.0,Yes,SIPRI,,,"SIPRI Comments: ""Ordered for evaluation in Yellow Jacket program"""
+141,Europe,Azerbaijan,Israel,Heron,UAV,,2011.0,,2013.0,Yes,SIPRI,,,"SIPRI Comments: ""Retired 2017; Part of $1.6b deal"" "
+142,Europe,Azerbaijan,Israel,Searcher,UAV,,2011.0,,2013.0,Yes,SIPRI,,,"SIPRI Comments: ""Part of $1.6b deal""  "
+143,Europe,Azerbaijan,Israel,Orbiter 2,UAV,,2011.0,,2021.0,Yes,Oryx,sUAS News,CNN,"Confirmed that they have the system and was used in 44-day war, but unclear when it first entered operation. "
+144,South America,Chile,Israel,Hermes-900,UAV,,2011.0,2013.0,2013.0,Yes,SIPRI,,,"SIPRI Comments: ""UDS 40m deal"""
+145,Africa,Ethiopia,Israel,WanderB,UAV,,2011.0,2011.0,2012.0,Yes,Oryx,Military Africa,BlueBird Aero Presentation,BlueBird Aero documents show Wander B training began in 2011 and ended in 2012.
+146,Africa,Ethiopia,Israel,Boomerang,UAV,,2011.0,,,Yes,Military Africa,BlueBird,,No delivery date
+147,Africa,Ethiopia,Israel,SpyLite,UAV,,2011.0,,,Yes,AF Technology,Military Africa,BlueBird,
+148,Europe,France,Austria,Camcopter S-100,UAV,,2011.0,,2012.0,Yes,SIPRI,,,
+149,Europe,Italy,United States,MQ-9 Reaper,UAV,,2011.0,2012.0,2012.0,Yes,SIPRI,Reuters,,Armed in 2015
+150,Europe,Italy,United States,ScanEagle,UAV,,2011.0,2013.0,2013.0,Yes,SIPRI,,,
+151,Central,Pakistan,China,CH-3,Armed UAV,,2011.0,2013.0,2019.0,Yes,SIPRI,,,"SIPRI Comments: ""Incl. production under license in Pakistan as Burraq and Shahpar"""
+152,Central,Pakistan,United States,RQ-11 Raven,UAV,,2011.0,,,Yes,Oryx,Pakistan Military Review,Reuters,Date of arrival unknown; likely went into operation for counterinsurgency use  shortly after transfer became public
+153,Europe,Russia,Austria,Camcopter S-100,UAV,2011.0,2011.0,2011.0,2022.0,Yes,CSD Drone Databook,Key.Aero,Press Release,"Transfer of technology/systems for civil purposes; rumored to now be in use by Russian military against Ukraine, though Schiebel denies this.
+From ODIN: ""At the same time, the Gorizont (Horizon) Air S-100, a Russian license-built version of the UAV was successfully tested aboard the Coast Guard patrol cutter Rubin. Russia intends to equip all Rubin-class patrol boats with these UAVs."" "
+154,Central,Saudi Arabia,Italy,Falco,UAV,,2011.0,2012.0,2012.0,Yes,SIPRI,,,"SIPRI Comments: ""Lease"""
+155,Indo-Pacific,Singapore,United States,ScanEagle,UAV,,2011.0,2012.0,2013.0,Yes,SIPRI,,,"SIPRI Comments: ""For modernized Victory corvettes"""
+156,Indo-Pacific,South Korea,Austria,Camcopter S-100,UAV,,2011.0,,2012.0,Yes,CSD Drone Databook,sUAS News,,
+157,Africa,Uganda,United States,RQ-11B Raven,UAV,,2011.0,,2012.0,Yes,US Army Document,DefenceWeb,BBC,
+158,Africa,Uganda,Israel,Orbiter 2,UAV,,2011.0,,,Pending,Military Africa,Flight Global,Defense Web,
+159,Central,United Arab Emirates,China,Wing Loong-I,Armed UAV,,2011.0,2013.0,2017.0,Yes,SIPRI,,,
+160,South America,Brazil,Israel,Hermes-450,UAV,,2012.0,2013.0,2013.0,Yes,SIPRI,,,"SIPRI Comments: ""BRL 48m ($25m) deal; Brazilian designation RQ-450; assembled in Brazil"""
+161,South America,Colombia,Israel,Hermes-450,UAV,,2012.0,2013.0,2013.0,Yes,SIPRI,,,
+162,South America,Colombia,Israel,Hermes-900,UAV,,2012.0,2014.0,2014.0,Yes,SIPRI,,,
+163,Europe,Finland,Israel,Orbiter 2B,UAV,,2012.0,2012.0,2016.0,Yes,CSD Drone Databook,Shephard Media,Flight Global,Appear to be subsequent follow-on orders on the original 2012 contract. 
+164,Indo-Pacific,Japan,United States,ScanEagle,UAV,,2012.0,2013.0,2013.0,Yes,SIPRI,,,"SIPRI Comments: ""JPY 1.2b ($9.9m) deal"""
+165,Europe,Lithuania,United States,ScanEagle,UAV,,2012.0,,2012.0,Yes,SIPRI,,,"SIPRI Comments: ""Delivery planned for 2024"""
+166,Indo-Pacific,Malaysia,United States,ScanEagle,UAV,,2012.0,2013.0,2013.0,Yes,SIPRI,,,"SIPRI Comments: ""MYR 10m ($3.3m) lease via Malaysian company; for coastal surveillance"" "
+167,Europe,Netherlands,United States,ScanEagle,UAV,,2012.0,,2012.0,Yes,SIPRI,,,
+168,Europe,Netherlands,United States,ScanEagle,UAV,,2012.0,2013.0,2013.0,Yes,SIPRI,USAASC,,
+169,Central,Pakistan,Germany,Luna NG,UAV,,2012.0,2019.0,2019.0,Yes,SIPRI,,,
+170,Europe,Sweden,United States,RQ-12A Wasp AE,UAV,,2012.0,,2012.0,Yes,Defense Update,AeroVironment,,
+171,Europe,Sweden,United States,RQ-20 Puma AE,UAV,,2012.0,,2012.0,Yes,sUAS News,Defense Update,AeroVironment,
+172,Central,Syria,Iran,Yasir,Armed UAV,,2012.0,,2012.0,Yes,SIPRI,,,
+173,Europe,United Kingdom,Israel,Hermes-450,Armed UAV,,2012.0,,2012.0,Yes,SIPRI,,,"SIPRI Comments: ""Part of Project Lydian; for use in Afghanistan"""
+174,Africa,Algeria,UAE,Yabhon Flash-20,UAV,,2013.0,2018.0,2019.0,Yes,SIPRI,Oryx,,"SIPRI Comments: ""Possibly assembled/produced under license in Algeria as Algeria-55 or El Djazair-55"""
+175,Africa,Algeria,UAE,Yabhon United-40,Armed UAV,2013.0,2013.0,2018.0,2019.0,Yes,SIPRI,Oryx,defenseweb,"SIPRI Comments: ""Possibly assembled/produced under license in Algeria as Algeria-55 or El Djazair-54"""
+176,Europe,Armenia,Russia,Ptero-5E,Armed UAV,,2013.0,,2015.0,Yes,CSD Drone Databook,Defense Blog,,"Army-55—and indigenous copy, X-55 or KH-55"
+177,South America,Chile,Israel,SpyLite,UAV,,2013.0,,2019.0,Yes,AF Technology,Flight Global,InfoDefnsa,InfoDefense reports update to simulator in 2019; specific year of acquisition unknown
+178,South America,Colombia,United States,ScanEagle,UAV,,2013.0,,2013.0,Yes,SIPRI,,,"SIPRI Comments: ""NightEagle model; aid"" "
+179,Europe,France,United States,MQ-9 Reaper,UAV,,2013.0,2013.0,2017.0,Yes,SIPRI,,,"SIPRI Comments: ""$600m deal; MQ-9 Block-1 version (to be modified to armed version 2019–2020)"" "
+180,Central,Iraq,United States,ScanEagle,UAV,,2013.0,2014.0,2014.0,Yes,SIPRI,,,
+181,Central,Jordan,Italy,Falco,UAV,,2013.0,2014.0,2014.0,Yes,SIPRI,,,
+182,Central,Lebanon,Italy,Falco,UAV,,2013.0,2014.0,2014.0,Yes,SIPRI,,,
+183,Africa,Morocco,France,Heron,UAV,,2013.0,,2014.0,Yes,SIPRI,defenceweb,,"SIPRI Comments: ""Secondhand; part of Harfang UAV system"" "
+184,Africa,Mozambique,Austria,Camcopter S-100,UAV,,2013.0,,2016.0,Yes,Defense Blog,Schiebel YouTube,defenceWeb,
+185,Indo-Pacific,Myanmar,China,CH-3,Armed UAV,,2013.0,2014.0,2015.0,Yes,SIPRI,Insider,The Diplomat,
+186,Central,Pakistan,United States,ScanEagle,UAV,,2013.0,2015.0,2015.0,Yes,SIPRI,,,"SIPRI Comments: ""$30m FMF aid"""
+187,Europe,Spain,Sweden,Skeldar V-200,UAV,,2013.0,,2013.0,Yes,SIPRI,CSD Drone Databook,,
+188,Central,Syria,Iran,Shahed-129,Armed UAV,,2013.0,2014.0,2016.0,Yes,SIPRI,,,
+189,Indo-Pacific,Thailand,Israel,Aerostar,UAV,,2013.0,2015.0,2015.0,Yes,SIPRI,,,
+190,Europe,United Kingdom,United States,ScanEagle,UAV,,2013.0,2014.0,2014.0,Yes,SIPRI,,,"SIPRI Comments: ""GBP 30m ($46m) MarUAS deal; leased and operated by producer for UK navy"""
+191,Central,Uzbekistan,China,Wing Loong-I,Armed UAV,,2013.0,,2014.0,Yes,SIPRI,Sputnik,,
+192,Africa,Algeria,South Africa,Seeker-400,UAV,,2014.0,,,Additional Sources Required,DefenceWeb,,,"From DefenceWeb: "". . . believed to have ordered one new Seeker 400 system with three aircraft"""
+193,Indo-Pacific,Australia,United States,RQ-12 WASP AE,UAV,,2014.0,2015.0,,Yes,CSD Drone Databook,UPI,,Trial procurement in 2015; order placed In 2017 
+194,Europe,Azerbaijan,Israel,Harop,Loitering Munition,,2014.0,2015.0,2018.0,Yes,SIPRI,CSIS,DIMSE,
+195,South America,Brazil,Israel,Hermes-900,UAV,,2014.0,2014.0,2014.0,Yes,SIPRI,,,
+196,Africa,Cameroon,Israel,Orbiter 2,UAV,,2014.0,,2015.0,Yes,CSD Drone Databook,Military Africa,,
+197,Europe,Czechia,United States,ScanEagle,UAV,,2014.0,2015.0,2015.0,Yes,SIPRI,,,"SIPRI Comments: ""CZK 200m ($6.8–8.1m) aid"" "
+198,Central,Iraq,China,CH-4B,Armed UAV,,2014.0,2015.0,2016.0,Yes,SIPRI,,,
+199,Europe,Italy,United States,RQ-1 Predator,UAV,,2014.0,2015.0,2015.0,Yes,SIPRI,,,
+200,Europe,Italy,Austria,Camcopter S-100,UAV,2012.0,2014.0,,,Yes,Press Release,ODIN,,"From ODIN: ""In April 2012, the Camcopter became the first unmanned helicopter to fly from an Italian Navy vessel when it was flight tested from the MM Bersagliere (F-584). In February 2014, the Italian Navy chose the S-100 as its primary unmanned aerial system for shipboard operations, where it will be used for intelligence, surveillance and reconnaissance (ISR)."""
+201,Africa,Nigeria,China,CH-3,Armed UAV,,2014.0,,2014.0,Yes,SIPRI,,,
+202,Central,Saudi Arabia,China,Wing Loong-I,Armed UAV,,2014.0,2015.0,2017.0,Yes,SIPRI,,,"SIPRI Comments: ""Produced under license in Saudi Arabia"" "
+203,Central,Saudi Arabia,China,CH-4B,Armed UAV,,2014.0,2015.0,2018.0,Yes,SIPRI,,,
+204,Indo-Pacific,South Korea,United States,RQ-4 Global Hawk,UAV,,2014.0,,2019.0,Yes,CSD Drone Databook,DSCA Report ,Defense Aerospace,
+205,Indo-Pacific,South Korea,United States,RQ-4B Global Hawk,UAV,,2014.0,2019.0,2020.0,Yes,SIPRI,,,"SIPRI Comments: ""$657m deal (incl. production of components in South Korea); RQ-4B Block-30 version"" "
+206,Africa,Sudan,China,CH-3,Armed UAV,,2014.0,,2015.0,Yes,SIPRI,,,
+207,Central,United Arab Emirates,United States,RQ-1 Predator XP,UAV,,2014.0,2017.0,2017.0,Yes,SIPRI,,,"SIPRI Comments: ""AED 722m ($200m) deal; Predator XP (RQ-1E) version"""
+208,Central,Yemen,United States,ScanEagle,UAV,,2014.0,,2014.0,Yes,AIN,Oregon Live,,
+209,Central,Afghanistan (Afghan National Army),United States,ScanEagle,UAV,,2015.0,2016.0,2018.0,Yes,SIPRI,,,"SIPRI Comments: ""$71m deal"""
+210,Africa,Cameroon,United States,ScanEagle,UAV,,2015.0,2016.0,2016.0,Yes,SIPRI,Military Africa,,"SIPRI Comments: ""$9.4m deal"""
+211,Europe,France,United States,MQ-9 Reaper,Armed UAV,,2015.0,2020.0,2020.0,Yes,SIPRI,,,"SIPRI Comments: ""$151m deal; MQ-9 Block-5 version"""
+212,Central,Jordan,China,CH-4B,Armed UAV,,2015.0,,2016.0,Yes,SIPRI,,,
+213,Central,Kazakhstan,China,Wing Loong-I,Armed UAV,,2015.0,,2016.0,Yes,SIPRI,,,
+214,Africa,Kenya,United States,ScanEagle,UAV,,2015.0,2016.0,2016.0,Yes,SIPRI,,,"SIPRI Comments: ""$9.9m deal"""
+215,North America,Mexico,Israel,Dominator-2,UAV,,2015.0,2015.0,2016.0,Yes,SIPRI,,,
+216,Africa,Nigeria,UAE,Yabhon Flash-20,Armed UAV,,2015.0,2020.0,2021.0,Yes,SIPRI,Defense Web,,
+217,Central,Pakistan,China,Wing Loong-I,Armed UAV,,2015.0,,2015.0,Yes,SIPRI,,,"SIPRI Comments: ""Coproduced"""
+218,Europe,Slovakia ,Israel,Skylark I-LEX,UAV,,2015.0,,2017.0,Yes,UNROCA,Israeldefense.co,,
+219,Indo-Pacific,South Korea,Israel,Heron,UAV,,2015.0,2016.0,2016.0,Yes,SIPRI,,,"SIPRI Comments: ""3KRW 0b deal"""
+220,Europe,Spain,United States,RQ-11 Raven,UAV,,2015.0,,,Yes,Army Recognition,Shephard Media,Business Wire,Follow-on purchase; already in possession of system
+221,Africa,Sudan,China,CH-4A,UAV,,2015.0,2016.0,2017.0,Yes,SIPRI,,,
+222,Europe,Switzerland,Israel,Hermes-900,UAV,,2015.0,2023.0,2023.0,Yes,SIPRI,Janes,,"SIPRI Comments: ""CHF 250m ($260–280m) ADS-15 (UAS-15) program; Hermes-900 StarLiner version; delivery planned 2023–2024"""
+223,Central,Turkmenistan,China,CH-3,Armed UAV,,2015.0,,2016.0,Yes,SIPRI,,,
+224,Central,Turkmenistan,China,WJ-600,UAV,,2015.0,,2016.0,Yes,SIPRI,,,
+225,Europe,Ukraine,United States,RQ-11 Raven,UAV,,2015.0,2016.0,,Yes,Flittle Disclosure,Defense Blog,,
+226,Indo-Pacific,Australia,Austria,Camcopter S-100,UAV,,2016.0,2017.0,2018.0,Yes,SIPRI,,,"SIPRI Comments: ""AUD 16m ($12m); Navy Minor Project 1942; 3-year lease (extended 2021 for 3 more years)"""
+227,Europe,Azerbaijan,Israel,Orbiter-3,UAV,,2016.0,2016.0,2017.0,Yes,SIPRI,,,
+228,Europe,Azerbaijan,Israel,Orbiter-1K,Loitering Munition,,2016.0,2016.0,2020.0,Yes,SIPRI,Flight Global,CSIS,Began manufacturing in 2017 under local designation Zarba F
+229,Europe,Azerbaijan,Israel,SkyStriker,Loitering Munition,,2016.0,2018.0,2020.0,Yes,SIPRI ,CSIS,Azer News,
+230,North America,Canada,United States,RQ-21 Blackjack,UAV,,2016.0,2017.0,2017.0,Yes,SIPRI,Canadian Army Today,,"SIPRI Comments: ""CU172 Blackjack; $14m deal"""
+231,Central,Egypt,China,Wing Loong-I,Armed UAV,,2016.0,2016.0,2018.0,Yes,SIPRI,,,
+232,Europe,Germany,Israel,Heron,UAV,,2016.0,,2016.0,Yes,SIPRI,,,"SIPRI Comments: ""Lease for use with German EU peacekeeping forces in Mali"" "
+233,Indo-Pacific,Indonesia,Sweden,Skeldar V-200,UAV,,2016.0,2017.0,2017.0,Yes,SIPRI,,,
+234,Indo-Pacific,Indonesia,Sweden,Skeldar F-330,UAV,,2016.0,2016.0,,Yes,CSD Drone Databook,Defense News,,Trial Platform
+235,Indo-Pacific,Malaysia,Spain,Fulmar ,UAV,,2016.0,,2017.0,Yes,CSD Drone Databook,Defense News,,
+236,Europe,Netherlands,United States,RQ Wasp III,UAV,,2016.0,,,Yes,Business Wire,,,
+237,Europe,Netherlands,United States,RQ-20 Puma AE,UAV,,2016.0,,,Yes,Business Wire,,,
+238,Europe,Spain,United States,MQ-9 Reaper,Armed UAV,,2016.0,2019.0,2020.0,Yes,SIPRI,,,"SIPRI Comments: ""EUR 158–161m deal; incl. for ASW; Spanish designation NR.05"""
+239,Africa,Tunisia,United States,ScanEagle,UAV,,2016.0,,,Yes,CSD Drone Databook,C4ISR,,"CSD Drone Databook estimates ScanEagle introduced in 2012, but cites article from 2016"
+240,Africa,Zambia,Israel,Hermes-450,UAV,,2016.0,2017.0,2017.0,Yes,SIPRI,,,
+241,Central,Afghanistan (Afghan National Army),United States,ScanEagle,UAV,,2017.0,2018.0,2018.0,Yes,SIPRI,,,"SIPRI Comments: ""$19.6m deal"""
+242,Africa,Algeria,China,CH-3,Armed UAV,,2017.0,,2018.0,Yes,SIPRI,MilitaryAfrica,Oryx,Oryx reports CH-3A
+243,Africa,Algeria,China,CH-4A,UAV,2014.0,2017.0,,2018.0,Yes,SIPRI,MilitaryAfrica,DefenseWeb,
+244,Indo-Pacific,Australia,United States,RQ-12 WASP AE,UAV,,2017.0,,,Yes,AeroVironment,UPI,,"Trial procurement in 2015; order placed In 2017, but already in possession of some systems"
+245,Europe,Azerbaijan,Israel,Hermes-900,UAV,,2017.0,2017.0,2018.0,Yes,SIPRI,,,
+246,Europe,Bulgaria ,United States,Aerosonde,UAV,,2017.0,,2023.0,Yes,CSD Drone Databook,C4ISRNet,,
+247,Indo-Pacific,Indonesia,China,CH-4B,Armed UAV,,2017.0,2019.0,2020.0,Yes,SIPRI,,,
+248,Central,Iraq,United States,ScanEagle,UAV,,2017.0,2018.0,2018.0,Yes,SIPRI,,,"SIPRI Comments: ""$7.8m deal"""
+249,Indo-Pacific,Japan,United States,RQ-4B Global Hawk,UAV,,2017.0,2022.0,2022.0,Yes,SIPRI,,,"SIPRI Comments: ""RQ-4 Block-30 (RQ-4B) version"" "
+250,Central,Lebanon,United States,ScanEagle,UAV,,2017.0,2019.0,2019.0,Yes,SIPRI,,,"SIPRI Comments: ""'Building Partner Capacity aid (worth $11m)"""
+251,North America,Mexico,Israel,Aerostar,UAV,,2017.0,,2017.0,Yes,SIPRI,,,
+252,Indo-Pacific,Myanmar,Austria,Camcopter S-100,UAV,,2017.0,,2018.0,Yes,SIPRI,,,"SIPRI Comments: ""€87m EUR deal"""
+253,Europe,Netherlands,United States,RQ-21 Blackjack,UAV,,2017.0,2018.0,2018.0,Yes,SIPRI,,,"SIPRI Comments: ""X-300 Integrator version"""
+254,Indo-Pacific,Philippines,United States,ScanEagle 2,UAV,,2017.0,2018.0,2018.0,Yes,SIPRI,,,"SIPRI Comments: ""$13.8m FMF aid"""
+255,Central,Saudi Arabia,China,CH-4A,UAV,,2017.0,,2018.0,Yes,SIPRI,,,"SIPRI Comments: ""Produced under license in Saudi Arabia"""
+256,Central,Saudi Arabia,China,Wing Loong-II,Armed UAV,,2017.0,2017.0,2022.0,Yes,SIPRI,,,
+257,Indo-Pacific,Thailand,Israel,Hermes-450,UAV,,2017.0,2018.0,2018.0,Yes,SIPRI,,,"SIPRI Comments: ""$28m deal"""
+258,Africa,Tunisia,Austria,Camcopter S-100,UAV,,2017.0,,2018.0,Yes,SIPRI,,,
+259,Europe,Ukraine,Poland,Warmate,Loitering Munition,,2017.0,2018.0,2018.0,Yes,SIPRI,,,
+260,Central,United Arab Emirates,China,Wing Loong-II,Armed UAV,,2017.0,2017.0,2018.0,Yes,SIPRI,,,
+261,Central,United Arab Emirates,South Africa,Seeker-200,UAV,,2017.0,2020.0,2020.0,Yes,SIPRI,,,"SIPRI Comments: ""AED 48m/ZAR 182m ($13m) deal"""
+262,Central,Afghanistan (Afghan National Army),United States,ScanEagle,UAV,,2018.0,2019.0,2019.0,Yes,SIPRI,,,"SIPRI Comments: ""$58m deal (incl. operational support)"""
+263,Indo-Pacific,Australia,United States,MQ-9B SkyGuardian,UAV,,2018.0,,2022.0,No,Asia Pacific Defense Reporter,The Defense Post,Breaking Defense,Deal was canceled by Australia in 2022
+264,Europe,Croatia,Austria,Camcopter S-100,UAV,,2018.0,,2019.0,Yes,Naval News,UAS Weekly,RTS,
+265,Europe,Cyprus,Israel,Aerostar,UAV,,2018.0,2019.0,2019.0,Yes,SIPRI,,,"SIPRI Comments: ""EUR 12m deal; for maritime patrol"""
+266,Central,Egypt,United States,RQ-20B Puma AE II,UAV,,2018.0,,2019.0,Yes,Oryx,UAS Vision,,
+267,Central,Egypt,China,Wing Loong-ID,Armed UAV,,2018.0,,,Pending,SIPRI,Army Recognition,,
+268,Europe,France,Austria,Camcopter S-100,UAV,,2018.0,,2018.0,Yes,SIPRI,,,
+269,Europe,Germany,Sweden,Skeldar V-200,UAV,,2018.0,2019.0,2019.0,Yes,SIPRI,CSD Drone Databook,,"SIPRI Comments: ""For use on K-130 frigates"""
+270,Europe,Germany,United States,MQ-4C Triton,UAV,,2018.0,,2020.0,No,DSCA Report ,Defense News,,"From Defense News: ""The German government has canceled plans to buy Northrop Grumman-made Triton drones to the tune of $2.5 billion, opting instead for manned planes carrying eavesdropping sensors."""
+271,Europe,Germany,Israel,Heron TP,Armed UAV,2016.0,2018.0,2021.0,2021.0,Yes,SIPRI,,,"SIPRI Comments: ""$600m 9-year lease (via German company)"""
+272,South America,Honduras,Israel,Skylark III,UAV,,2018.0,2019.0,,Yes,CSD Drone Databook,Israel Defense,,
+273,Europe,Iceland,Israel,Hermes-900,UAV,,2018.0,,2019.0,Yes,Naval Technology,Elbit ,,Contract through the European Maritime Safety Agency (EMSA)
+274,Indo-Pacific,India,Israel,Hermes-900,UAV,,2018.0,,,Pending,SIPRI,,,"SIPRI Comments: ""Produced under license in India as Drishti-10 Starliner"""
+275,Indo-Pacific,India,Israel,Heron-TP,Armed UAV,2015.0,2018.0,,,Pending,SIPRI,Economic Times,,"SIPRI Comments: ""$400m deal; Heron-TP-XP version; selected but probably not yet ordered by the end of 2022"""
+276,Indo-Pacific,Indonesia,United States,ScanEagle,UAV,,2018.0,2021.0,2022.0,Yes,SIPRI,,,"SIPRI Comments: ""'Maritime Security Initiative aid"""
+277,Indo-Pacific,Laos,China,CH-4B,Armed UAV,,2018.0,,2019.0,Yes,SIPRI,,,"SIPRI Comments: ""Designation uncertain (reported as ""unmanned combat aerial vehicles"")"" "
+278,Europe,Latvia,United States,RQ-20A Puma,UAV,,2018.0,,,Pending,Shepard Media,Army Technology,,No reporting of delivery
+279,Indo-Pacific,Malaysia,Austria,Camcopter S-100,UAV,,2018.0,,2018.0,Yes,SIPRI,,,
+280,Africa,Mauritania ,China,CH-4,Armed UAV,,2018.0,,,Additional Sources Required,Times Aerospace,CSD Drone Databook 2020 Update,,Africa Intelligence reports negotiations occurring in 2020
+281,Europe,Netherlands,United States,MQ-9A Reaper,Armed UAV,,2018.0,2022.0,2022.0,Yes,SIPRI,,,"SIPRI Comments: ""MQ-9A Block-5 version"""
+282,Africa,Niger,France,Delair DT-26,UAV,,2018.0,2019.0,2020.0,Yes,Times Aerospace,Defence Web,,
+283,Europe,Norway,United States,RQ-12A WASP Block IV,UAV,,2018.0,,2019.0,Yes,UAS Norway,UPI,,
+284,Europe,Norway,United States,RQ-20B Puma AE II,UAV,,2018.0,,2019.0,Yes,UAS Norway,UPI,,
+285,Central,Pakistan,China,Wing Loong-II,Armed UAV,,2018.0,2021.0,2023.0,Yes,SIPRI,,,
+286,Indo-Pacific,Philippines,Israel,Hermes-450,UAV,,2018.0,2019.0,2019.0,Yes,SIPRI,,,"SIPRI Comments: ""Incl. 1 delivered for free by producer"""
+287,Europe,Poland,United States,RQ-21 Blackjack,UAV,,2018.0,,2018.0,Yes,SIPRI,,,
+288,Europe,Portugal,United States,RQ-11B Raven,UAV,,2018.0,2019.0,,Yes,The Defense Post,AeroVironment,AeroVironment,
+289,Central,Qatar,Turkey,Bayraktar TB-2,Armed UAV,,2018.0,2019.0,2019.0,Yes,SIPRI,,,
+290,Europe,Spain,Israel,Orbiter 3,Loitering Munition,,2018.0,2019.0,2019.0,Yes,SIPRI,,,"SIPRI Comments: ""EUR 3.1m deal"""
+291,Indo-Pacific,Thailand,Israel,Dominator-2,UAV,,2018.0,2022.0,2023.0,Yes,SIPRI,,,"SIPRI Comments: ""$27m deal"""
+292,Europe,Ukraine,Turkey,Bayraktar TB-2,Armed UAV,,2018.0,2019.0,2021.0,Yes,SIPRI,,,"SIPRI Comments: ""$69m deal"""
+293,Central,United Arab Emirates,South Africa,Seeker-400,Armed UAV,,2018.0,2020.0,2021.0,Yes,SIPRI,,,
+294,Indo-Pacific,Vietnam,Israel,Heron,UAV,,2018.0,,2021.0,No,SIPRI,The Jerusalem Post,Oryx,"SIPRI Comments: ""$120–160m deal; incl. for maritime patrol; delivery delayed from 2020 to 2021 due to the COVID-19 pandemic.""
+Oryx reports the deal inked in 2018 failed to materialize"
+295,Europe,Azerbaijan,Israel,Skylark,UAV,,2019.0,,2021.0,Yes,Oryx,Polygon Mag,,
+296,South America,Brazil,United States,ScanEagle,UAV,,2019.0,2021.0,2021.0,Yes,SIPRI,,,
+297,North America,Canada,Sweden,Skeldar V-200,UAV,,2019.0,2020.0,2021.0,Yes,SIPRI,,,
+298,Europe,Croatia,Israel,Orbiter-3B,UAV,2018.0,2019.0,,,Pending,Defense Brief,Aviation Week,Croatian Language Source ,"From Croation Language Source, as of 2021: ""There is no publicly available information on whether the Israeli company Aeronautics delivered all six Orbiter 3B unmanned aerial vehicles that the Ministry of Agriculture bought in 2019 for 4.8 million euros. Drones intended for military-civilian use were purchased by the Ministry of Agriculture so that Croatia could receive EU grants for them."""
+299,Europe,Czechia,United States,ScanEagle,UAV,2017.0,2019.0,,,Pending,Defense News,CZ Defence,,Purchased in 2019 for delivery in 2020
+300,Europe,France,Austria,Camcopter S-100,UAV,,2019.0,,2020.0,Yes,SIPRI,,,"SIPRI Comments: ""For use on Mistral AALS"""
+301,Europe,France,Austria,Camcopter S-100,UAV,,2019.0,,2021.0,Yes,Press Release,Naval News,,Four additional units following 2019 integration
+302,Indo-Pacific,India,Israel,Harop,Loitering Munition,,2019.0,,,Pending,The Jerusalem Post,Force India,,Various reporting on February 2019 order; cannot confirm delivery
+303,Indo-Pacific,Indonesia,United States,ScanEagle,UAV,,2019.0,2022.0,,Yes,SIPRI,,,"SIPRI Comments: ""'Maritime Security Initiative aid"""
+304,Africa,Libya (GNC),Turkey,Bayraktar TB-2,Armed UAV,,2019.0,,2019.0,Yes,SIPRI,,,
+305,Europe,Luxembourg,United States,RQ-21 Blackjack,UAV,,2019.0,2022.0,2022.0,Yes,SIPRI,,,"SIPRI Comments: ""X-300 Integrator version"""
+306,Indo-Pacific,Malaysia,United States,ScanEagle 2,UAV,,2019.0,2020.0,2022.0,Yes,SIPRI,,,"SIPRI Comments: ""'Maritime Security Initiative aid"""
+307,Central,Oman,United States,RQ-21 Blackjack,UAV,,2019.0,2022.0,2022.0,Yes,SIPRI,,,
+308,Central,Pakistan,China,CH-4,UAV,,2019.0,2021.0,2022.0,Yes,SIPRI,Janes,,"SIPRI reports CH-4A variant, while others claim acquisition of armed CH-4B variant; author codes as unarmed due to like of affirming evidence to armed system"
+309,Indo-Pacific,Philippines,Israel,Hermes-900,UAV,,2019.0,2019.0,2020.0,Yes,SIPRI,,,"SIPRI Comments: ""Part of 3 Hermes-900 systems"""
+310,Indo-Pacific,Philippines,United States,ScanEagle 2,UAV,,2019.0,2021.0,2021.0,Yes,SIPRI,,,"SIPRI Comments: ""PHP 710m ($15m) Maritime Security Initiative aid"""
+311,Indo-Pacific,Philippines,Israel,Skylark III,UAV,,2019.0,,,Pending,Elbit Systems,Asian Military Review,Janes,$153m package announced in October 2019
+312,Indo-Pacific,Philippines,Israel,Skylark LEX,UAV,,2019.0,,,Pending,Elbit Systems,Asian Military Review,Janes,$153m package announced in October 2019
+313,Indo-Pacific,Philippines,Israel,THOR,UAV,,2019.0,,,Pending,Elbit Systems,Asian Military Review,Janes,$153m package announced in October 2019
+314,Europe,Serbia,China,CH-92,Armed UAV,,2019.0,,2020.0,Yes,SIPRI,,,"SIPRI Comments: ""Possibly $30m deal (incl. technology transfers for development of Serbian Pegasus UAV)"" "
+315,Indo-Pacific,Thailand,Israel,Orbiter-3B,UAV,,2019.0,,2019.0,Yes,SIPRI,,,"SIPRI Comments: ""$8m deal"""
+316,Indo-Pacific,Thailand,Austria,Camcopter S-100,UAV,,2019.0,2020.0,2021.0,Yes,SIPRI,Shephard Media,,"SIPRI Comments: ""THB 600m ($19m) deal"""
+317,Africa,Tunisia,United States,RQ-20 Puma ,UAV,,2019.0,,2022.0,Yes,Military Africa,Africa Intelligence,,
+318,Africa,Uganda,Israel,Hermes-900,UAV,,2019.0,,2022.0,Yes,Military Africa,Janes,Defense Web,"Janes reports delivery to Uganda as unconfirmed (April 2023);
+ video reported by DefenceWeb and Oryx suggests delivery "
+319,Central,United Arab Emirates,United States,ScanEagle,UAV,,2019.0,2020.0,2020.0,Yes,SIPRI,,,
+320,Central,United Arab Emirates,China,CR500 Golden Eagle,Armed UAV,,2019.0,,,Pending,SIPRI,,,
+321,Central,United Arab Emirates,United States,RQ-21 Blackjack,UAV,,2019.0,,,Pending,GovInfo,CSD Drone Databook,,
+322,Indo-Pacific,Vietnam,United States,ScanEagle,UAV,,2019.0,,2022.0,Yes,SIPRI,,,"SIPRI Comments: ""'Maritime Security Initiative aid; for coast guard"""
+323,Europe,Albania,United States,RQ-20 Puma AE,UAV,,2020.0,,2021.0,Yes,Military+Aerospace Electronics,Albanian Daily News,GovTribe,
+324,Europe,Armenia,Russia,ZALA 421-16E,UAV,,2020.0,,,Pending,Oryx,,,"Armenian indigenous copy UL-300; listed as ""not yet acquired/prototype""; also have a loitering munition variant"
+325,Indo-Pacific,Australia,United States,MQ-4C Triton,UAV,2018.0,2020.0,,,Pending,SIPRI,RAAF,,Deal was first made public in 2018; SIPRI documents 2020; Part of AUD3–4b Project JP-2062 or Air-7000 Phase-1B; MQ-4CN version; delivery planned 2023–2025
+326,Europe,Azerbaijan,Turkey,Bayraktar TB-2,Armed UAV,,2020.0,,2020.0,Yes,SIPRI,Oryx,,
+327,Indo-Pacific,Bangladesh,Italy,Falco,UAV,,2020.0,2022.0,2022.0,Yes,SIPRI,,,
+328,Indo-Pacific,Bangladesh,United States,RQ-12B WASP AE,UAV,,2020.0,,,Pending,GovTribe,Janes,,
+329,Indo-Pacific,Bangladesh,United States,RQ-20A Puma,UAV,,2020.0,,,Pending,GovTribe,,,
+330,Europe,Belgium,Sweden,Skeldar V-200,UAV,,2020.0,,,Yes,SIPRI,,,"SIPRI Comments: ""For use on MCM ships; ordered via French company; delivery planned from 2023"""
+331,Europe,Belgium,United States,MQ-9B SkyGuardian ,UAV,2016.0,2020.0,,,Pending,SIPRI,CSD Drone Databook,,"SIPRI Comments: $189m deal; MQ-9B SkyGuardian version; delivery planned by end of 2024; 
+From CSD: in its ""Strategic Vision 2030"" planning document, which was released in 2016, the Belgian Ministry of Defense announced that it would invest 490 million euros to acquire medium-altitude long-endurance drones to replace the RQ-5 Hunter B.4 In 2018 the MoD began negotiations with the United States to purchase the GA-ASI MQ-9B SkyGuardian, a variant of the MQ-9 Reaper, to fill this requirement."
+332,Europe,Belgium,United States,RQ-20A Puma,UAV,,2020.0,,,Additional Sources Required,Army Recognition,,,No available confirmation of delivery
+333,Europe,Belgium,United States,RQ-21 Integrator,UAV,,2020.0,,,Additional Sources Required,Army Recognition,,,No available confirmation of delivery
+334,Africa,Brunei,United States,RQ-21 Blackjack,UAV,,2020.0,2021.0,2021.0,Yes,SIPRI,,,
+335,North America,Canada,Israel,Hermes-900,UAV,,2020.0,,,Pending,Elbit Systems,Nunatsiaq,,"Canada purchased the Hermes Starliner, the Hermes-900 (MALE UAS), but certified to operate in civilian airspace. Included because of MALE capabilities that can easily be transitioned to military missions. Canada's expected use is ""to detect oil spills, survey sea ice, monitor shipping and assist with search and rescue""; expected completion of order in 2023"
+336,North America,Canada,United States,V-BAT 128,UAV,,2020.0,,,Pending,Janes,,,
+337,Europe,France,United States,MQ-9 Reaper,UAV,,2020.0,,2020.0,Yes,SIPRI,Reuters,,"SIPRI Comments: ""Probably secondhand; lease, MQ-9 Block-1 version"""
+338,Europe,Greece,Israel,Heron-MP,UAV,,2020.0,,2020.0,Yes,SIPRI,,,"SIPRI Comments: ""$39m 3-year lease; maritime patrol UAV"""
+339,Indo-Pacific,India,United States,MQ-9 Reaper,UAV,,2020.0,,2020.0,Yes,SIPRI,,,"SIPRI Comments: ""Leased"""
+340,Indo-Pacific,India,Poland,Warmate,Loitering Munition,,2020.0,2022.0,2022.0,Yes,SIPRI,,,
+341,Central,Iraq (PMF),Iran,Mohajer-6 ,Armed UAV,,2020.0,,2020.0,Yes,SIPRI ,Oryx,,
+342,Africa,Morocco,United States,MQ-9B SeaGuardian,UAV,2020.0,2020.0,,,Pending,Oryx,Military Africa,,Negotiations of U.S. sale of 4 MQ-9B SeaGuardian drones in 2020 (initiated by the Trump administration; hypothesis that Biden quietly pulled out of agreed deal) 
+343,Europe,Netherlands,Sweden,Skeldar V-200,UAV,,2020.0,,,Pending,SIPRI,UMS Skeldar,Naval News,"SIPRI Comments: ""For use on MCM ships; ordered via French company; delivery planned from 2023"""
+344,Africa,Nigeria,United States,Aerosonde,UAV,,2020.0,,2022.0,Yes,defenceweb,Military Africa,,Aerosonde MK 4.7; est. completion in Sept 2021
+345,Africa,Nigeria,China,Wing Loong-II,Armed UAV,,2020.0,,2023.0,Yes,SIPRI,,,
+346,Africa,Nigeria,China,CH-3,Armed UAV,,2020.0,,,Pending,SIPRI,,,
+347,Africa,Nigeria,China,CH-4B,Armed UAV,,2020.0,,,Pending,SIPRI,,,
+348,Central,Saudi Arabia,Turkey,Karayel,Armed UAV,,2020.0,2020.0,2022.0,Yes,SIPRI,Janes,UNROCA,
+349,Europe,Switzerland,United States,Indago 3,UAV,,2020.0,,,Pending,Janes,LMCO,,"Janes reports delivery would begin end of 2020, but no follow-on reporting indicating contract was completed"
+350,Africa,Tunisia,Turkey,ANKA-S,UAV,,2020.0,2021.0,2023.0,Yes,SIPRI,Military Africa,,
+351,Central,Turkmenistan,Israel,SkyStriker,Loitering Munition,,2020.0,2021.0,2021.0,Yes,SIPRI,Janes,Oryx,Seen in 2021 military parade
+352,Central,Turkmenistan,Turkey,Bayraktar TB-2,Armed UAV,,2020.0,2021.0,2021.0,Yes,SIPRI,,,
+353,Central,Turkmenistan,United States,ScanEagle-2,UAV,,2020.0,2021.0,2021.0,Yes,SIPRI,,,"SIPRI Comments: ""For use on C-92 (Deniz Han) frigate"" "
+354,Africa,Uganda,United States,Aerosonde,UAV,,2020.0,,2021.0,Additional Sources Required,defenceweb,,,MK 4.7; est. completion in Sept 2021
+355,Europe,Ukraine,Turkey,Bayraktar TB-2,Armed UAV,,2020.0,2022.0,,Yes,SIPRI,,,"SIPRI Comments: ""Incl. production under license in Ukraine"""
+356,Central,United Arab Emirates,South Africa,Seeker-400,Armed UAV,,2020.0,,,Pending,SIPRI,,,"SIPRI Comments: ""AED 26m deal"""
+357,Europe,United Kingdom,United States,Protector CPB,Armed UAV,,2020.0,2022.0,,Yes,SIPRI,,,"SIPRI Comments: ""GBP 260m ($305m) deal; part of GBP 415m ($607m) Protector program; certifiable Protector-B version; UK designation Protector RG-1; delivery ongoing"" "
+358,Africa,Algeria,China,Wing Loong-II,Armed UAV,,2021.0,,2023.0,Yes,Twitter,DefenseWeb,ORYX,"Delivery has been delayed since order in 2021, but Twitter post suggests some have been delivered"
+359,Indo-Pacific,Australia,Austria,Camcopter S-100,UAV,,2021.0,,2023.0,No,Australian Defense ,Naval News,SIPRI,"Extension of 2016 contract; canceled in 2023
+SIPRI Comments: ""extended 2021 for 3 more years."""
+360,Europe,Belgium,United States,RQ-21 Integrator,UAV,,2021.0,2022.0,2022.0,Yes,SIPRI,Insitu,,"From Insitu:""In April 2021, the Benelux countries (Belgium, the Netherlands, and Luxembourg) signed a memorandum of understanding for the acquisition of seven RQ-21 Integrator systems, also known as Integrator X-300."" "
+361,South America,Brazil,Israel,Hermes-900,UAV,,2021.0,,,Pending,SIPRI,,,"SIPRI Comments: ""Brazilian designation RQ-900; delivery planned by 2023"" "
+362,Africa,Burkina Faso ,Turkey,Bayraktar TB-2,Armed UAV,,2021.0,2022.0,2023.0,Yes,SIPRI,,,
+363,Africa,Cote d'Ivoire,France,Delair DT-26,UAV,,2021.0,,2022.0,Yes,Military Africa,defenceWeb,,
+364,Africa,Ethiopia,China,Wing Loong-I,Armed UAV,,2021.0,,2021.0,Yes,SIPRI,,,"SIPRI Comments: ""unknown supplier"""
+365,Africa,Ethiopia,Turkey,Bayraktar TB-2,Armed UAV,,2021.0,,2021.0,Yes,SIPRI,,,
+366,Europe,France,United States,MQ-9 Reaper,Armed UAV,,2021.0,,,Pending,SIPRI,,,"SIPRI Comments: ""MQ-9 Block-5 version; delivery probably planned by 2024"""
+367,Europe,Germany,Israel,Heron,UAV,,2021.0,,2021.0,Yes,SIPRI,,,"SIPRI Comments: ""Lease for use with German EU peacekeeping forces in Mali"""
+368,Europe,Germany,Sweden,Skeldar V-200,UAV,,2021.0,,,Pending,SIPRI,,,"SIPRI Comments: ""'AlmEG program; Sea Falcon version; incl. production of components in Germany; for use on K-130 frigates; incl. 4 for training; delivery planned by 2025; version unknown"" "
+369,Europe,Greece,Israel,Heron-MP,UAV,,2021.0,,2021.0,Yes,SIPRI,,,"SIPRI Comments: ""Lease; maritime patrol UAV"""
+370,Europe,Greece,Spain,Alpha 900,UAV,,2021.0,,,Pending,SIPRI,,,
+371,Indo-Pacific,India,Israel,Heron-TP,Armed UAV,2020.0,2021.0,,2021.0,Yes,SIPRI,Janes,,"SIPRI Comments: ""Lease"""
+372,Indo-Pacific,India,Israel,SkyStriker,Loitering Munition,,2021.0,,,Pending,SIPRI,,,"SIPRI Comments: ""INRI 1b ($14m) deal"""
+373,Central,Iraq,Turkey,Bayraktar TB-2,Armed UAV,,2021.0,,,Pending,SIPRI,,,
+374,Central,Kazakhstan,Turkey,ANKA-S,Armed UAV,2020.0,2021.0,2022.0,2023.0,Yes,SIPRI ,Daily Sabah,Janes,
+375,Central,Kyrgyzstan,Turkey,Bayraktar TB-2,Armed UAV,,2021.0,2021.0,2022.0,Yes,SIPRI,,,
+376,Central,Kyrgyzstan,Russia,Orlan-10E,UAV,,2021.0,,,Pending,Oryx,The Diplomat,,
+377,Europe,Luxembourg,United States,RQ-21 Integrator,UAV,,2021.0,,2022.0,Yes,Oryx,Insitu,,"From Insitu: ""In April 2021, the Benelux countries (Belgium, the Netherlands, and Luxembourg) signed a memorandum of understanding for the acquisition of seven RQ-21 Integrator systems, also known as Integrator X-300.""
+ SIPRI records Belgium's as delivered, so safe to assume Lux has been as well. "
+378,Africa,Morocco,Turkey,Bayraktar TB-2,Armed UAV,,2021.0,,2021.0,Yes,SIPRI,,,
+379,Africa,Morocco,Israel,SpyX,Loitering Munition,,2021.0,,,Pending,Oryx,Atalayar,,"SIPRI Comments: ""MAD 626m ($70m) deal"""
+380,Africa,Morocco,Israel,ThunderB,UAV,,2021.0,,,Pending,SIPRI,The Intercept,,
+381,Africa,Morocco,Turkey,Bayraktar TB-2,Armed UAV,,2021.0,,,Pending,Forbes,Morocco World News,,Reportedly ordered a 2nd batch in Dec 2021
+382,Indo-Pacific,Myanmar,Russia,Orlan-10E,UAV,,2021.0,,,Pending,Asian Military Review,Janes,,
+383,Europe,Netherlands,United States,RQ-21 Integrator,UAV,,2021.0,,2022.0,Yes,Insitu,,,"From Insitu: ""In April 2021, the Benelux countries (Belgium, the Netherlands, and Luxembourg) signed a memorandum of understanding for the acquisition of seven RQ-21 Integrator systems, also known as Integrator X-300.""
+SIPRI records Belgium's as delivered, can assume same for Netherlands"
+384,Africa,Niger,Turkey,Bayraktar TB-2,Armed UAV,,2021.0,,2022.0,Yes,SIPRI ,Military Africa,,
+385,Africa,Nigeria,Turkey,Songar,Armed UAV,,2021.0,,2022.0,Yes,Oryx,DefenceWeb,,
+386,Central,Pakistan,Turkey,Bayraktar TB-2,Armed UAV,,2021.0,2022.0,,Yes,SIPRI,Shepard Media,Daily Pakistan,"Most recent delivery was in 2023, per SIPRI"
+387,Europe,Poland,Turkey,Bayraktar TB-2,Armed UAV,,2021.0,2022.0,,Yes,SIPRI,Oryx,,"SIPRI Comments: ""$268m deal; delivery planned 2022–2024;"" most recent delivery was 2023"
+388,Central,Qatar,Turkey,Bayraktar Mini ,UAV,,2021.0,2022.0,,Yes,Oryx,Hürriyet Daily News,Aze.Media,"From Hürriyet: ""This $2.5 million sale will become the first export of SUAVs by Turkey, and they will also be the first drones in Qatar’s inventory""; Has not made a public appearance in Qatar so difficult to confirm delivery "
+389,Indo-Pacific,Singapore,Israel,Harop,Loitering Munition,,2021.0,,,Additional Sources Required,Defense News,,,"Reports begin to surface in 2021, though no firm disclosure of sale has been made; Singapore is the presumed client, though not confirmed "
+390,Central,Tajikisatan ,Iran,Ababil-2,UAV,,2021.0,,2022.0,Yes,SIPRI,Oryx,Eurasia Daily Monitor,"SIPRI Comments: ""Produced under license in Tajikistan; factory opened in May 2022"""
+391,Central,Tajikisatan ,Iran,Ababil-2T,Loitering Munition,,2021.0,2022.0,,Yes,SIPRI,Oryx,,"SIPRI Comments: ""Produced under license in Tajikistan"""
+392,Indo-Pacific,Thailand,United States,RQ-21 Blackjack,UAV,,2021.0,2022.0,2022.0,Yes,SIPRI,Naval News,,
+393,Africa,Togo,Turkey,Bayraktar TB-2,Armed UAV,,2021.0,2022.0,2022.0,Yes,SIPRI,Military Africa,,
+394,Central,United Arab Emirates,South Africa,Seeker-400,Armed UAV,,2021.0,,,Pending,SIPRI,,,"SIPRI Comments: ""AED 50m deal; for Presidential Guard"""
+395,Europe,United Kingdom,United States,MQ-9 Reaper,Armed UAV,,2021.0,,2021.0,Yes,SIPRI,,,"SIPRI Comments:  ""$13m deal"""
+396,Europe,United Kingdom,United States,Switchblade 300,Loitering Munition,,2021.0,,2021.0,Yes,FlightGlobal,Breaking Defense,,
+397,South America,Venezuela,Iran,Mohajer-6,Armed UAV,,2021.0,,,Pending,USIP,US Treasury,,"From USIP: By 2021, Iran reportedly sold Venezuela the more advanced Mohajer-6. U.S. Treasury; more recently, QAI has engaged with senior Caracas officials on the sale of Mohajer-6 UAVs and aircraft to Venezuela"
+398,Europe,Albania,Turkey,Bayraktar TB-2,Armed UAV,,2022.0,,,Pending,SIPRI,Twitter,AP,Images online show images preparing for induction (Jan 2024)
+399,Africa,Algeria,Turkey,Askungur,Armed UAV,,2022.0,,,Pending,SIPRI,MilitaryAfrica,,Delivery status unclear
+400,Africa,Algeria,China,CH-5,Armed UAV,,2022.0,,,Additional Sources Required,Army Recognition,Mena Defense,South China Morning Post,"No corroborating information has been found, though multiple sources report Algeria operates CH-5s"
+401,South America,Argentina,Israel,Hero-120,Loitering Munition,,2022.0,,,Pending,Janes,Forbes,,
+402,South America,Argentina,Israel,Hero-30,Loitering Munition,,2022.0,,,Pending,Janes,Forbes,,
+403,Indo-Pacific,Australia,Israel,Skylark I-LEX,UAV,,2022.0,,,Pending,Janes,,,
+404,Indo-Pacific,Australia,United States,Integrator,UAV,,2022.0,,,Pending,Insitu,Shepard Media,,"Selected in March 2022 for the Army’s Project LAND 129 Phase 3 tactual UAS requirement, the Integrator is a growth development of the smaller ScanEagle UAS"
+405,Indo-Pacific,Australia,United States,RQ-21 Blackjack,UAV,,2022.0,,,Pending,SIPRI,,,"SIPRI Comments: ""AUD 16b ($13.5b) Project Air-6000 (incl. production of components in Australia); delivery planned 2014–2023"" "
+406,Europe,Azerbaijan,Turkey,Akinci,Armed UAV,,2022.0,2023.0,2023.0,Yes,SIPRI,Oryx,,
+407,Central,Bahrain,Israel,Unnamed System,UAV,,2022.0,,,Additional Sources Required,Times of Israel,Wall Street Journal,,WSJ reporting from a senior Bahraini official; no subsequent information found
+408,Indo-Pacific,Bangladesh,Turkey,Bayraktar TB-2,Armed UAV,,2022.0,2023.0,,Yes,SIPRI,EurasianTimes,,"From EurAsian Times: ""Prothom Alo, a Bangladesh-based daily newspaper, cited Turkey’s ambassador to Bangladesh, Mustafa Osman Tufan, as saying that the Bangladeshi government had signed a contract to buy the UCAVs."" "
+409,South America,Brazil,United States,V-BAT 128,UAV,,2022.0,,,Pending,UST,,,
+410,Europe,Czechia,Israel,Heron I ,UAV,,2022.0,,2023.0,No,SIPRI,Janes,,"Made deal to purchase 3 IAI Heron 1; pulled out in May 2023 and has instead decided to acquire “200 small UAV systems"""
+411,Africa,Djibouti ,Turkey,Bayraktar TB-2,Armed UAV,,2022.0,,2022.0,Yes,SIPRI ,Military Africa,Twitter,
+412,Africa,Ethiopia,Turkey,Akinci,Armed UAV,,2022.0,2023.0,,Yes,SIPRI,Oryx,Overt Defense,"SIPRI Comments: ""Akinci-A version; delivery planned 2024""; completed in January 2024 (beyond the timeframe of the dataset) "
+413,Europe,Georgia,Poland,Warmate,Loitering Munition,,2022.0,2023.0,,Yes,SIPRI,,,"SIPRI Comments: ""Produced under license in Georgia"""
+414,Europe,Greece,United States,MQ-9B SeaGuardian,UAV,,2022.0,,,Pending,Oryx,The Defense Post,,
+415,Indo-Pacific,India,Austria,Camcopter S-100,UAV,,2022.0,2023.0,,Yes,Janes,Raksha Anirveda,,
+416,Indo-Pacific,India,Israel,Heron 2,UAV,,2022.0,2022.0,,Yes,SIPRI,,,"Most recent delivery was in 2023, per SIPRI"
+417,Europe,Italy,Israel,Hero-30,Loitering Munition,,2022.0,,,Pending,DefenseNews,Forbes,,Forbes article suggested systems have been delivered
+418,Central,Kazakhstan,Turkey,ANKA-S,Armed UAV,,2022.0,,,Pending,SIPRI,,,"SIPRI Comments: ""Assembled/produced under license in Kazakhstan; delivery planned from 2024"""
+419,Europe,Kosovo,United States,RQ-20 Puma LE,UAV,,2022.0,,,Additional Sources Required,Shepard Media,,,
+420,Central,Kyrgyzstan,Turkey,Akinci,Armed UAV,,2022.0,,2022.0,Yes,SIPRI,Oryx,The Diplomat,"SIPRI Comments: ""Akinci-A version"""
+421,Central,Kyrgyzstan,Turkey,Askungur,Armed UAV,,2022.0,2023.0,2023.0,Yes,SIPRI,Turkish News,,
+422,Central,Kyrgyzstan,Turkey,ANKA,Armed UAV,,2022.0,,,Pending,SIPRI,,,
+423,Europe,Lithuania,United States,Switchblade 600,Loitering Munition,,2022.0,,,Pending,SIPRI,Ministry of National Defence,DefenseNews,
+424,Africa,Mali ,Turkey,Bayraktar TB-2,Armed UAV,,2022.0,2022.0,,Yes,SIPRI ,Janes,,"Most recent delivery was in 2023, per SIPRI"
+425,Europe,Moldova,Germany,Unnamed System,UAV,,2022.0,,,Pending,Radio Moldova,Radio Free Europe,,No specific model identified
+426,Africa,Morocco,China,Wing Loong-II,Armed UAV,,2022.0,,2023.0,Yes,Morocco World News,Atalayar,,
+427,Africa,Nigeria,China,AR-500,UAV,,2022.0,,2022.0,Yes,SIPRI,,,"SIPRI Comments: ""AR-500B Version"""
+428,Africa,Nigeria,Turkey,Bayraktar TB-2,Armed UAV,,2022.0,2022.0,,Yes,SIPRI,DefenceWeb,Twitter,SIPRI reports delivery to still be pending; some photo evidence on Twitter that some TB-2 systems may have been delivered. 
+429,Africa,Nigeria,Turkey,Delta ,UAV,,2022.0,,,Additional Sources Required,Military Africa,,,
+430,Central,Pakistan,Turkey,Akinci,Armed UAV,,2022.0,2023.0,,Yes,SIPRI,Oryx,,"SIPRI Comments: ""Delivery probably planned from 2023"""
+431,Europe,Poland,United States,MQ-9A Reaper,UAV,,2022.0,,2022.0,Yes,SIPRI,Oryx,,"SIPRI Comments: ""Secondhand; $71m lease; leasing MQ-9A until purchase/delivery of MQ-9B"""
+432,Europe,Romania,Israel,Hermes-450,UAV,,2022.0,,,Pending,SIPRI,Janes,Elbit Systems,"SIPRI Comments: ""Watchkeeper X version; produced under license in Romania"" "
+433,Europe,Russia,Iran,Mohajer-6 ,Armed UAV,,2022.0,,2022.0,Yes,SIPRI,,,"SIPRI Comments: ""Bought for use against Ukraine"""
+434,Europe,Russia,Iran,Shahed-136,Loitering Munition,,2022.0,,2022.0,Yes,SIPRI,Oryx,RUSI,Bought for use against Ukraine; Russian designation Geran-2; RUSI reports first sightings in September 2022
+435,Indo-Pacific,Singapore,Israel,Orbiter 4,UAV,,2022.0,,,Pending,SIPRI,Straits Times,,"From The Straits Times: ""MG Khong said the delivery of Orbiter 4 close-range unmanned aerial vehicles has been delayed, and the RSAF is working on a suitable delivery timeline."""
+436,Indo-Pacific,Taiwan,United States,MQ-9B SeaGuardian ,UAV,,2022.0,,,Pending,SIPRI,,,"SIPRI Comments: ""TWD 17b ($546m) deal; MQ-9B SeaGuardian MP version; delivery planned from 2025"""
+437,Indo-Pacific,Thailand,Austria,Camcopter S-100,UAV,,2022.0,,,Pending,SIPRI,Shephard Media,,
+438,Indo-Pacific,Thailand,Israel,Hermes-900,UAV,,2022.0,,,Pending,SIPRI,,,"SIPRI Comments: ""THB 4b ($107m) deal"""
+439,Europe,Ukraine,Czechia,One 150,UAV,,2022.0,,2022.0,Yes,SIPRI,,,"SIPRI Comments: ""Financed by aid from Luxemburg after 2022 Russian invasion of Ukraine"""
+440,Europe,Ukraine,Norway,Black Hornet,UAV,,2022.0,,2022.0,Yes,Oryx,Defense Post,Popular Mechanics,
+441,Europe,Ukraine,Poland,Warmate,Loitering Munition,,2022.0,,2022.0,Yes,SIPRI,,,"SIPRI Comments: ""Aid after 2022 Russian invasion of Ukraine; incl. some financed by Lithuania"" "
+442,Europe,Ukraine,Turkey,Bayraktar TB-2,Armed UAV,,2022.0,,2022.0,Yes,SIPRI,,,"SIPRI Comments: ""Aid after 2022 Russian invasion of Ukraine; originally to be funded by Lithuanian, Polish, and Ukrainian private aid but instead donated by producer"""
+443,Europe,Ukraine,United States,RQ-20 Puma,UAV,,2022.0,,2022.0,Yes,Oryx,Breaking Defense,,"From Breaking Defense: ""Through security aid packages, the Pentagon has sent hundreds of the company’s Switchblade suicide drones — both the smaller 300 version and the larger 600 version — to Ukraine, along with AeroVironment’s bigger Puma surveillance UAV."" "
+444,Europe,Ukraine,United States,ScanEagle,UAV,,2022.0,,2022.0,Yes,SIPRI,,,"SIPRI Comments: ""Secondhand; aid after 2022 Russian invasion of Ukraine"" "
+445,Europe,Ukraine,United States,Switchblade 300,Loitering Munition,,2022.0,,2022.0,Yes,Oryx,Breaking Defense,,"From Breaking Defense: ""Through security aid packages, the Pentagon has sent hundreds of the company’s Switchblade suicide drones — both the smaller 300 version and the larger 600 version — to Ukraine, along with AeroVironment’s bigger Puma surveillance UAV."" "
+446,Europe,Ukraine,United States,Switchblade 600,Loitering Munition,,2022.0,2022.0,2023.0,Yes,SIPRI,Oryx,,Oryx reports delivered in 2022; SIPRI reports delivery in 2023
+447,Europe,Ukraine,United States,Phoenix Ghost,Loitering Munition,,2022.0,2022.0,,Yes,SIPRI,,,"SIPRI Comments: ""Aid after 2022 Russian invasion of Ukraine"""
+448,Europe,Ukraine,Australia,Drone40,Loitering Munition,,2022.0,,,Pending,Army Recognition,COBBS Industries,,
+449,Europe,Ukraine,United States,Altius-600,UAV,,2022.0,,,Pending,Oryx,,,
+450,Europe,Ukraine,United States,CyberLux K8,UAV,,2022.0,,,Pending,Oryx,,,
+451,Europe,Ukraine,United States,Jump 20,UAV,,2022.0,,,Pending,Oryx,,,
+452,Central,United Arab Emirates,Turkey,Bayraktar TB-2,Armed UAV,2021.0,2022.0,,,Pending,SIPRI,Atlantic Council,,
+453,Central,Uzbekistan,Turkey,Bayraktar TB-2,Armed UAV,,2022.0,2023.0,2023.0,Yes,SIPRI,,,
+454,Central,Uzbekistan,United States,RQ-20 Puma 3 AE,UAV,,2022.0,,,Interest,Sach Khabrain,Shepard Media,KUN.UZ,"From KUN.UZ: According to the press service of the Defense Ministry, Uzbek specialists are showing a certain interest in American drones. “However, to date, there is no talk of acquiring a PUMA RQ-20B Puma 3 AE UAV,” the report reads."
+455,Central,Afghanistan (Taliban),China,Blowfish ,UAV,,2023.0,,,Interest,The Economic Times ,AEI Report,,
+456,Africa,Algeria,Turkey,ANKA-S,Armed UAV,2021.0,2023.0,,,Pending,SIPRI,Crisis Group,Military Africa,Purchased in response to Morocco's 2021 acquisition of Turkish drones; interest/discussion began 2021–2022
+457,Africa,Angola,Turkey,Askungur,Armed UAV,2021.0,2023.0,,,Pending,Military Africa,DefenseWeb,,
+458,Africa,Chad,Turkey,ANKA-S,Armed UAV,,2023.0,2023.0,2023.0,Yes,SIPRI,Military Africa,Turkish News,Janes
+459,Africa,Democratic Republic of the Congo (DRC),China,CH-4B,Armed UAV,,2023.0,2023.0,,Yes,Military Africa,The Diplomat,,Remaining 6 drones to be delivered by end of 2023; likely CH-4B version 
+460,Europe,Estonia,Israel,Mini Harpy ,Loitering Munition,,2023.0,,,Pending,SIPRI,Janes,,First deliveries expected in 2024
+461,Europe,France,United States,Switchblade 300,Loitering Munition,2022.0,2023.0,,,Pending,Defense News,AeroVironment,,
+462,Europe,Greece,Israel,Orbiter 3,UAV,,2023.0,,,Pending,SIPRI,Shepard Media,,
+463,Europe,Hungary,Germany,HERO,Loitering Munition,,2023.0,,,Pending,Defense News,,,Rheinmetall markets in Europe in conjunction with Israeli firm UVision
+464,Europe,Hungary,Israel,Hero-30,Loitering Munition,,2023.0,,,Pending,SIPRI,,,"SIPRI Comments: ""Delivery planned 2024–2025; from Italian production line"""
+465,Indo-Pacific,India,United States,MQ-9B Reaper,Armed UAV,2018.0,2023.0,,,Pending,SIPRI,Bloomberg,Economic Times,"SIPRI Comments: ""Incl. 15 SeaGuardian and 16 SkyGuardian versions; incl. assembly or production under license of 21 in India; selected 2023 but not yet ordered by end of 2023"""
+466,Indo-Pacific,Indonesia,Spain,Alpha 900,UAV,,2023.0,,,Pending,Alpha,,,
+467,Indo-Pacific,Indonesia,Turkey,ANKA,Armed UAV ,2017.0,2023.0,,,Pending,SIPRI,Janes,AP,
+468,Europe,Kosovo,Turkey,Bayraktar TB-2,Armed UAV,,2023.0,,2023.0,Yes,SIPRI ,Oryx,,
+469,Central,Kuwait,Turkey,Bayraktar TB-2,Armed UAV,2019.0,2023.0,,,Pending,SIPRI,Oryx,Baykar,"SIPRI Comments: ""$370m deal""; the TB-2's were first tested in Kuwait in 2019"
+470,Indo-Pacific,Malaysia,Turkey,ANKA-S,UAV,2022.0,2023.0,,,Pending,SIPRI ,Janes,Oryx,"Decided on the ANKA following evaluation of SeaGuardian (USA) and Wing Loong I (PRC); MYR 424m ($92m) deal; 
+SIPRI Comments: ""delivery planned 2025"""
+471,Europe,Montenegro,Slovenia,Belin,UAV,,2023.0,,,Pending,Janes,,,Joint production agreement with Slovenia 
+472,Europe,Netherlands,United States,MQ-9A Reaper,Armed UAV,,2023.0,,,Pending,SIPRI,The Defense Post,,"SIPRI Comments: ""$611m (incl. 3 ground-based control systems); MQ-9A Block-5 version; delivery planned 2026"""
+473,Europe,Poland,United States,MQ-9B SkyGuardian ,UAV,2022.0,2023.0,,,Pending,Oryx,AIN Online,Defense News,Leasing MQ-9A until purchase/delivery of MQ-9B
+474,Europe,Romania,Turkey,Bayraktar TB-2,Armed UAV,2022.0,2023.0,,,Pending,SIPRI,Oryx,Defense News,"SIPRI Comments: ""$300m deal; selected but contract not yet signed by end of 2022"""
+475,Central,Saudi Arabia,Turkey,Akinci,Armed UAV,,2023.0,,,Pending,SIPRI,Oryx,Defense News,"SIPRI Comments: ""Part of $3b deal (incl. other UAV and arms); incl. production of components or production under license in Saudi Arabia""; Oryx reports already in operation"
+476,Europe,Serbia,China,CH-95,Armed UAV,,2023.0,2023.0,,Yes,Oryx,Ekapija,South China Morning Post,
+477,Europe,Serbia,UAE,RW-24,Loitering Munition,2023.0,2023.0,,,Pending,Balkan Insight,Janes,,
+478,Europe,Ukraine,Germany,Luna NG,UAV,,2023.0,,2023.0,Yes,SIPRI,Oryx,,"SIPRI Comments: ""Aid after 2022 Russian invasion of Ukraine; delivery planned 2023"""
+479,Europe,Ukraine,United States,Penguin,UAV,,2023.0,2023.0,,Yes,SIPRI,,,"SIPRI Comments: ""Secondhand; aid after 2022 Russian invasion of Ukraine"""
+480,Europe,United Kingdom,Austria,Camcopter S-100,UAV,,2023.0,,,Pending,SIPRI,Naval News,,"SIPRI Comments: ""20m GBP ($24m) Peregrine program; for use on Type-26 frigates; delivery planned 2024"""
+481,North America,United States,Spain,Alpha 900,UAV,,2023.0,,,Pending,Alpha,,,
+482,Africa,Algeria,United States,MQ-9 Reaper,Armed UAV,2013.0,,,2014.0,No,Middle East Monitor,North Africa Post,DefenceWeb,"From Middle East Monitor: ""The United States has refused to sell drones to Algeria due to legal restrictions on the export of similar weapons to other countries, its ambassador in Algiers has said."""
+483,Africa,Algeria,China,CH-4B,Armed UAV,,,,2020.0,Yes,Oryx,Global Defense Corp,,Crashes reported in 2020
+484,Africa,Algeria,China,ASN-209,UAV,,,,2022.0,Yes,Oryx,Military Africa,,"Crash reported in 2022, may have acquired earlier"
+485,Africa,Algeria,Iran,Unnamed System,UAV,,,,2022.0,Additional Sources Required,North Africa Post,The Defense Post,,Defense Post suggests the transfer occurred in 2022 based on statements by Omar Mansour 
+486,Africa,Algeria,China,WZ-7 Xianglong ,Armed UAV,2014.0,,,,Interest,Defense Web,,,
+487,Africa,Angola,Israel,Aerostar,UAV,,,,2003.0,Yes,Defense Web,Drone Wars,,"From DefenseWeb: ""Angola has previously used another Israeli company to supply UASs. In 2003, Aeronautics Defense Systems supplied its Aerostar UAS to patrol oil installations for Chevron/Texaco over a two-year period. The contract was reportedly worth $4m USD, according to E&P Magazine."""
+488,Africa,Angola,Israel,Heron I ,UAV,2011.0,,,,Interest,Defense Web,,,
+489,Europe,Armenia,Russia,Orlan-10,UAV,,,,2020.0,Yes,Oryx,,,Received from Russia during the 2020 Nagorno-Karabakh War
+490,Europe,Armenia,Russia,Gryphon-12,UAV,,,,2021.0,Yes,Oryx,,,
+491,Europe,Armenia,Russia,Supercam S350,UAV,,,,2022.0,Yes,Oryx,,,Armenian indigenous copy UL-350
+492,Europe,Armenia,India,Rustom II,UAV,2022.0,,,,Interest,Civilnet,TurDef,,
+493,Indo-Pacific,Australia,United States,PD-100 Black Hornet 2,UAV,,,,2017.0,Yes,CSD Drone Databook,,,
+494,Europe,Austria,France,Tracker,UAV,,,,2016.0,Yes,CSD Drone Databook,,,
+495,Europe,Azerbaijan,Turkey,Bayraktar TB-2,Armed UAV,,,,2020.0,Yes,SIPRI,Times Aerospace,,"SIPRI Comments: ""24 units acquired immediately prior to outbreak of war"""
+496,Europe,Azerbaijan,Turkey,Kargu,Loitering Munition,,,2020.0,2021.0,Yes,Oryx,Janes,,Janes reports photos from 2020 showing Kargu's in Azeri use. 
+497,Europe,Azerbaijan,Russia,Lancet-1,Loitering Munition,,,,,Additional Sources Required,Army Recognition,,,
+498,Indo-Pacific,Bangladesh,Slovenia,Bramor C4EYE,UAV,,,,2017.0,Yes,CSD Drone Databook,,,
+499,Europe,Belarus,Russia,Irkut-10,UAV,,,,2011.0,Yes,Oryx,4Aviation,,
+500,Europe,Belarus,Russia,Irkut-3,UAV,,,,2011.0,Yes,Oryx,4Aviation,,
+501,Europe,Belarus,Russia,Orlan-10,UAV,,,,2022.0,Yes,Oryx,,,"Belorussian designation ""Busel"""
+502,Europe,Belarus,Russia,Supercam S100,UAV,,,,2022.0,Yes,Oryx,,,
+503,Europe,Belarus,Russia,Supercam S350,UAV,,,,2022.0,Yes,Oryx,,,
+504,Europe,Belarus,Iran,Mohajer-6 ,Armed UAV,2023.0,,,,Interest,ISW,Al Monitor,Twitter,Defense agreement involving Shahed drone production in Belarus 
+505,Europe,Belarus,Iran,Shahed,Loitering Munition,2023.0,,,,Interest,ISW,,,Defense agreement involving Shahed drone production in Belarus 
+506,Europe,Belgium,United States,RQ-11 Raven,UAV,,,,2017.0,Yes,CSD Drone Databook,,,
+507,Europe,Belgium,Austria,Camcopter S-100,UAV,2018.0,,,,Interest,ODIN,Vertical ,,"From ODIN: ""In 2018, the Belgian Navy conducted a weeks-long testing of the Camcopter, assessing its utility for maritime surveillance and search and rescue."""
+508,Africa,Benin,China,NORINCO Type PMR-50,UAV,,,,2023.0,Yes,Military Africa,Government of Benin,,Donated to Benin by the Chinese government; can be equipped with grenade launchers; NORINCO Type PMR-50 
+509,South America,Bolivia,South Korea,RemoEye-006,UAV,,,,2013.0,Yes,CSD Drone Databook,InfoDefensa ,,
+510,South America,Bolivia,Iran,Unnamed System,UAV,2023.0,,,,Interest,AP,,,
+511,Europe,Bosnia and Herzegovina,Turkey,Bayraktar TB-2,Armed UAV,2021.0,,,,Interest,Balkan Insight,Twitter,,
+512,Africa,Botswana ,Israel,Silver Arrow,UAV,,,,2001.0,Additional Sources Required,Times Aerospace,Flight Global,,
+513,South America,Brazil,Russia,Orlan-10E,UAV,2019.0,,,,Interest,Janes,,,
+514,Europe,Bulgaria ,United States,Phoenix 30,UAV,,,,2014.0,Yes,CSD Drone Databook,UST,FlightGlobal,
+515,Europe,Bulgaria ,United States,RQ-11B Raven,UAV,,,,2015.0,Yes,CSD Drone Databook,Sofia News Agency,,
+516,Europe,Bulgaria ,Turkey,Bayraktar TB-2,Armed UAV,2020.0,,,,Interest,ProPublica,Bulgarian Military.com,,"From Bulgarian Military.com: ""According to the magazine, Sofia had this interest in 2020, but the coronavirus and the crisis with Kovid-19 failed the negotiations."""
+517,Africa,Burundi,United States,RQ-11 Raven,UAV,,,,2021.0,Yes,CSD Drone Databook,BBC,,
+518,Africa,Cameroon,Israel,Orbiter-3,UAV,,,,2018.0,Additional Sources Required,Military Africa,Times Aerospace,,Cannot find any evidence corroborating Times Aerospace 
+519,Africa,Cameroon,Slovenia,Bramor C4EYE,UAV,,,,2021.0,Yes,Africa Intelligence,Military Africa,,
+520,North America,Canada,United States,Silver Fox,UAV,,,,2004.0,Yes,CSD Drone Databook,AF Technology,,"From CSD: ""Inactive in 2006"""
+521,North America,Canada,United States,ScanEagle,UAV,,,,2008.0,Yes,CSD Drone Databook,Canadian Army Today,,"From CSD: ""Leased from 2008–2014"""
+522,North America,Canada,United States,RQ-11B Raven,UAV,,,,2014.0,Yes,CSD Drone Databook,,,"From CSD: ""CU173"""
+523,North America,Canada,United States,RQ-20B Puma II AE,UAV,,,,2018.0,Yes,CSD Drone Databook,AeroVironment,,
+524,North America,Canada,United States,MQ-1 Predator,Armed UAV,2011.0,,,,Interest,National Post,,,
+525,North America,Canada,United States,MQ-4C Triton,UAV,2019.0,,,,Interest,SAR 2019,,,
+526,South America,Colombia,United States,AutoCopter,UAV,,,,2005.0,Yes,CSD Drone Databook,,,"From CSD: ""Inactive in 2014"""
+527,South America,Colombia,United States,Silver Fox,UAV,,,,2006.0,Yes,CSD Drone Databook,,,
+528,South America,Colombia,United States,RQ-11B Raven,UAV,,,,2013.0,Yes,CSD Drone Databook,,,
+529,South America,Colombia,Israel,SpyLite,UAV,,,2015.0,2019.0,Yes,BlueBird,Army Recognition,,Army Recognition reports SpyLite systems have been in use since 2015
+530,South America,Costa Rica,United States,RQ-11B Raven,UAV,,,,2021.0,Yes,The Tico Times ,,,
+531,Europe,Croatia,Israel,Skylark,UAV,,,,2007.0,Yes,CSD Drone Databook,RTS,,Seen in military parade in 2015
+532,Europe,Czechia,United States,RQ-11B Raven,UAV,,,,2009.0,Yes,CSD Drone Databook,Czech Military Review,,
+533,Europe,Czechia,United States,Wasp III,UAV,,,,2015.0,Yes,UAS Vision,CZ Defence,Czech Military Review,
+534,Europe,Czechia,United States,RQ-20B Puma III AE,UAV,,,,2018.0,Yes,Czech Military Review,,,
+535,Europe,Denmark,United States,RQ-11 Raven,UAV,,,,2008.0,Yes,CSD Drone Databook,US Army Document,,"From CSD: ""Inactive in 2012"""
+536,Europe,Denmark,United States,RQ-20A Puma,UAV,,,,2012.0,Yes,CSD Drone Databook,Flight Global,,
+537,South America,Ecuador,United States,RQ-11B Raven,UAV,,,,2023.0,Yes,InfoDefensa,Army Recognition,,
+538,Central,Egypt,UAE,Al-Saber,UAV,,,,2020.0,Yes,Oryx,,,"From Oryx: ""Another development came through the acquisition of al-Saber UAVs (UAE-built Schiebel Camcopter S-100s) by the Egyptian navy. At least three of these rotorcraft UAVs were seen on the deck of one of Egypt's two Mistral-class landing helicopter docks (LHDs) in 2020."" "
+539,Central,Egypt,UAE,Yabhon Flash-20,Armed UAV,,,,2021.0,Yes,Oryx,,,Locally produced as EJUNE-30 SW based on Emirati design; revealed in 2021. 
+540,Central,Egypt,Turkey,ANKA,UAV,2011.0,,,,No,Oryx,Forbes,Oryx,"From Forbes: ""None were ultimately delivered, most likely due to the coup and Turkey’s strong condemnation of Sisi."""
+541,Central,Egypt,Belarus,Unnamed System,UAV,2020.0,,,,Interest,Oryx,Defense Web,Belta ,The contract is believed to cover an initial batch of UAVs ahead of local production; no new reporting on production line or drone delivery since initial story in winter 2020. 
+542,Central,Egypt,Italy,Falco Xplorer,UAV,2021.0,,,,Interest,Oryx,Shepard Media,,"Egypt is believed to be interested in the Falco Xplorer ISR platform, in keeping with its strong defense business relationship with Italy. Reporting suggests interest in the unarmed configuration, but Falco Xplorer can also be armed"
+543,Central,Egypt,China,Wing Loong-II,Armed UAV,,,,,Additional Sources Required,Military Africa,Twitter,Oryx,"From Oryx: ""In the years following their acquisition, follow-up orders for large numbers of improved Wing Loong IDs (which are fitted with four hardpoints), Wing Loong IIs and CH-5s has frequently been reported. However, neither of these types has so far been sighted in Egypt, and these reports should be treated with caution until any evidence becomes available.""
+ "
+544,Europe,Estonia,United States,RQ-20B Puma,UAV,,,,2019.0,Yes,CSD Drone Databook,,,
+545,Africa,Ethiopia,United States,RQ-11 Raven,UAV,,,,2015.0,Yes,Flittle Disclosure,,,
+546,Africa,Ethiopia,China,CH-4,Armed UAV,,,,2015.0,Additional Sources Required,Al Jazeera,Military Africa,,Reports are widespread but remain unconfirmed
+547,Africa,Ethiopia,Israel,Aerostar,UAV,,,,2020.0,Yes,Oryx,Military Africa,,
+548,Africa,Ethiopia,Iran,Mohajer-6 ,Armed UAV,,,,2021.0,Yes,USIP,Military Africa,Oryx,
+549,Africa,Ethiopia,Turkey,ANKA-S,Armed UAV,,,,2021.0,Additional Sources Required,Military Africa,,,Reports that ANKA's were delivered with TB-2's in 2021
+550,Europe,Finland,Turkey,Bayraktar TB-2,Armed UAV,2022.0,,,,Interest,Financial Times,,,
+551,Europe,France,Israel,Skylark I,UAV,,,,2008.0,Yes,DIMSE,Flight Global,CSD Drone Databook,
+552,Europe,France,Israel,Skylark I-LE,UAV,,,,2010.0,Yes,CSD Drone Databook,,,
+553,Europe,Germany,Israel,Heron-TP,Armed UAV,2016.0,,,2017.0,No,Haaretz,Bulgarian Military,,
+554,South America,Guatemala,Mexico, S-45 Baalam ,UAV,,,,2021.0,Yes,Hydra,UAS Weekly,,
+555,Europe,Hungary,Israel,Skylark I-LE,UAV,,,,2009.0,Yes,CSD Drone Databook,RTS,,
+556,Europe,Hungary,Israel,Skylark I-LEX,UAV,,,,2023.0,Yes,Hungarian Ministry of Defence,,,
+557,Europe,Hungary,Israel,Skylark III,UAV,,,2022.0,2023.0,Yes,Hungarian News,Hungarian Ministry of Defence,,
+558,Europe,Hungary,Turkey,Bayraktar TB-2,Armed UAV,2021.0,,,,Interest,ProPublica,Index.Hu,Railly News,Preprocurment testing; All Turkish systems  being considered
+559,Europe,Hungary,Turkey,Vestel Karayel-SU,Armed UAV,2021.0,,,,Interest,Railly News,,,
+560,Indo-Pacific,India,Israel,Heron-TP,Armed UAV,2012.0,,,2012.0,No,Economic Times,,,"Proposal made by Indian armed forces, but did not get political backing from UPA-2. Eventually able to order Heron-TP's in 2015"
+561,Indo-Pacific,Indonesia,Israel,Aerostar,UAV,,,,2013.0,Yes,CSD Drone Databook,DIMSE,,
+562,Indo-Pacific,Indonesia,Turkey,Akinci,Armed UAV,2022.0,,,,Interest,Janes,,,
+563,Indo-Pacific,Indonesia,Turkey,Bayraktar TB-2,Armed UAV,2022.0,,,,Interest,Janes,,,
+564,Indo-Pacific,Indonesia,United States,MQ-1C Gray Eagle,Armed UAV,2020.0,,,,Interest,Politico,,,"In 2020/2021, Indonesia requested armed MQ-1C Gray Eagle drones from the United States. No news has come out since, so it appears the Biden administration did not go through with the sale"
+565,Central,Iraq,Iran,Ababil-3,UAV,,,,2009.0,Yes,Oryx,The New York Times,,The United States shot down system in 2009 
+566,Central,Iraq,Iran,Mohajem-92,UAV,,,,,Yes,Oryx,,,Unveiled in 2015
+567,Central,Iraq (PMF),Iran,Yasir,UAV,,,,2014.0,Yes,Oryx,USIP,,Yasir is Iran's variant of American ScanEagle UAV
+568,Central,Iraq (PMF),Iran,Ababil-3,UAV,,,,2015.0,Yes,USIP,,,Similar to Ababil-3; seen flying in March 2015
+569,Central,Iraq (PMF),Iran,Oghab-1,UAV,,,,2015.0,Yes,Oryx,USIP,,
+570,Central,Iraq (PMF),Iran,Murad-5,Loitering Munition,,,,2020.0,Yes,Oryx,,,
+571,Central,Iraq (PMF),Iran,Shahed-131,Loitering Munition,,,,2021.0,Yes,Oryx,,,
+572,Europe,Ireland,Israel,Orbiter 1,UAV,,,,2007.0,Yes,CSD Drone Databook,Irish Independent,,"From CSD: ""Upgraded to Orbter 2B in 2016"""
+573,Europe,Ireland,Israel,Orbiter 2B,UAV,,,,2016.0,Yes,CSD Drone Databook,Irish Times,,"From CSD: ""Upgraded from Orbiter 1 in 2016"""
+574,Europe,Italy,United States,RQ-11A Raven,UAV,,,,2007.0,Yes,Droni Militari 2018,,,
+575,Europe,Italy,United States,RQ-11B Raven,UAV,,,,2008.0,Yes,Droni Militari 2018,,,
+576,Europe,Italy,Slovenia,Bramor C4EYE,UAV,,,,2014.0,Yes,Droni Militari 2018,,,
+577,Europe,Italy,Turkey,Bayraktar TB-2,Armed UAV,2022.0,,,,Interest,Middle East Eye,,,
+578,Indo-Pacific,Japan,United States,MQ-9B SeaGuardian,UAV,,,,2022.0,Yes,Defense News,General Atomics,,
+579,Indo-Pacific,Japan,United States,SkyRanger R70,UAV,2023.0,,,,Interest,Overt Defense,,,
+580,Central,Jordan,United States,MQ-9 Predator,Armed UAV,,,,2015.0,No,FP,,,Obama administration rejected General Atomics to market MQ-9 Predators to Jordan
+581,Central,Kazakhstan,Russia,Irkut-10,UAV,,,2009.0,2012.0,Yes,SUAS News,SIPRI Working Paper,,"From SIPRI Working Paper: ""Kazakhstan has also bought Russian reconnaissance unmanned aerial vehicles (UAVs) from Irkut corporation. These include one Irkut-2M and 12 Irkut-10 systems."" Citing article dated 2012"
+582,Central,Kazakhstan,Russia,Irkut-2M,UAV,,,,2012.0,Yes,SUAS News,SIPRI Working Paper,,"From SIPRI Working Paper: ""Kazakhstan has also bought Russian reconnaissance unmanned aerial vehicles (UAVs) from Irkut corporation. These include one Irkut-2M and 12 Irkut-10 systems."" Citing article dated 2012"
+583,Central,Kazakhstan,Israel,Skylark I-LEX,UAV,,,,2014.0,Yes,CSD Drone Databook,Oryx,Israel Defense,Indigenous production facility for SkyLark I-LEX established in 2021
+584,Central,Kazakhstan,Russia,Orlan-10,UAV,,,,2015.0,Yes,CSD Drone Databook,,,
+585,Central,Kazakhstan,Russia,Orlan-10E,UAV,,,,2021.0,Yes,Oryx,AF Technology,,
+586,Central,Kazakhstan,United States,RQ-11 Raven,UAV,,,,2022.0,Yes,Twitter,Shepard Media,,
+587,Central,Kazakhstan,Russia,Irkut-1A,UAV,2012.0,,,,Interest,SUAS News,,,
+588,Central,Kazakhstan,Russia,Irkut-3,UAV,2012.0,,,,Interest,SUAS News,SIPRI Working Paper,,From SIPRI Working Paper: Discussions are also underway to also purchase an unspecified number of Irkut-3 UAVs. 
+589,Africa,Kenya,United States,RQ-11 Raven,UAV,,,,2012.0,Yes,Flittle Disclosure,,,
+590,Europe,Kosovo,United States,RQ-20 Puma,UAV,,,,2020.0,Yes,21st TSC ,,,Operated by U.S. forces as part of Kosovo Force 28
+591,Central,Kyrgyzstan,China,WJ-100,UAV,,,,2021.0,Yes,Oryx,China Arms ,,
+592,Central,Lebanon,United States,RQ-11 Raven,UAV,,,,2009.0,Yes,CSD Drone Databook,US Army Document,Flittle Disclosure,
+593,Central,Lebanon (Hezbollah),Iran,Ayoub,UAV,,,,2012.0,Yes,USIP,Al Jazeera,Alma ,USIP reports similarity to Shahed-129
+594,Africa,Libya,Italy,Falco,UAV,2009.0,,,,Interest,FlightGlobal,Defense Web,,"From FlightGlobal: ""The proposed deal with Libya is expected to be negotiated in detail once the Italian parliament has ratified an agreement with the North African country. An agreement would involve a yet-to-be determined degree of local production, and orders for possibly up to 50 Falcons to patrol Libya's southern border."""
+595,Africa,Libya (GNC),Turkey,Bayraktar Mini ,UAV,,,,2020.0,Yes,Oryx,,,
+596,Africa,Libya (LNA),Iran,Mohajer-2,UAV,,,,2017.0,Yes,Oryx,,,
+597,Africa,Libya (LNA),China,Wing Loong-II,Armed UAV,,,,2019.0,Yes,Air Power Asia,All Source,,Shot down in August  2019
+598,Africa,Libya (LNA),Iran,Ababil-2,UAV,,,,2020.0,Yes,Oryx,,,
+599,Europe,Lithuania,United States,RQ-11 Raven,UAV,,,,2015.0,Yes,Flittie Disclosure,,,
+600,Europe,Lithuania,United States,Switchblade 300,Loitering Munition,2022.0,,,,Interest,Defense News,,,"From Defense News: ""Meanwhile, the Lithuanian military may also acquire Switchblade 300 drones from the U.S. “in the near future,” according to the ministry. Vilnius hopes Washington will finance that possible purchase as part of military assistance to European allies, the statement said."""
+601,Europe,Luxembourg,United States,RQ-11 Raven,UAV,,,2016.0,2017.0,Yes,CSD Drone Databook,Oryx,Twitter,Woman pictured holding Raven UAV
+602,Europe,Luxembourg,Latvia,Atlas Pro,UAV,,,,2022.0,Yes,Oryx,,,
+603,Europe,Luxembourg,United States,RQ-20 Puma,UAV,,,,2022.0,Yes,Oryx,,,
+604,Europe,Malta,Israel,Heron,UAV,,,,2021.0,Yes,Aviation Direct,Scramble,,"Contracted by European Agency for the Protection of External Borders (FRONTEX), operated by IAI for maritime aerial surveillance services in Malta. Image shows Heron configured with Maltese markings"
+605,North America,Mexico,Israel,Orbiter 2,UAV,,,,2010.0,Yes,CSD Drone Databook,CNN,,Reported crash in 2010
+606,Africa,Morocco,China,Wing Loong-I,Armed UAV,,,,2020.0,Yes,Oryx,,,Gifted to Morocco by UAE 
+607,Africa,Morocco,France,Delair DT-26,UAV,,,,2021.0,Yes,Africa Intelligence,Times Aerospace,,
+608,Africa,Morocco,Israel,Hermes-900,UAV,,,,2021.0,Yes,Oryx,The Intercept,Defense News,
+609,Africa,Morocco,United States,MQ-1A Predator,UAV,2021.0,,,,Additional Sources Required,Oryx,,,
+610,Africa,Mozambique,China,Unnamed System,Armed UAV,2023.0,,,,Interest,Africa Intelligence,,,
+611,Africa,Mozambique,Turkey,Bayraktar TB-2,Armed UAV,2023.0,,,,Interest,Nordic Monitor,,,
+612,Indo-Pacific,Myanmar,China,Sky-02A,UAV,,,,2013.0,Yes,Malaysia Flying Herald,The Diplomat,,
+613,Indo-Pacific,Myanmar,Israel,Skylark I-LEX,UAV,,,,2015.0,Yes,Asian Military Review,Seasia,,
+614,Europe,Netherlands,United States,RQ-11B Raven,UAV,,,,2008.0,Yes,CSD Drone Databook,AeroVironment,Business Wire,Upgrade by AeroVironment in 2016
+615,Europe,Netherlands,United States,RQ-11B Raven,UAV,,,,2016.0,Yes,Business Wire,,,Upgrade by AeroVironment in 2016
+616,Indo-Pacific,New Zealand,United States,Black Hornet,UAV,,,,2022.0,Yes,CSD Drone Databook,Overt Defense,,
+617,Indo-Pacific,New Zealand,United States,RQ-20 Puma,UAV,,,,2022.0,Yes,Australian Defense Magazine ,,,
+618,Indo-Pacific,New Zealand,Australia,Drone40,Loitering Munition,2023.0,,,,Interest,Otago Daily Times,,,
+619,Indo-Pacific,New Zealand,United States,MQ-4C Triton,UAV,2019.0,,,,Interest,SAR 2019,,,
+620,Africa,Nigeria,Portugal,AR3 Net Ray,UAV,,,,2020.0,Yes,defenceweb,Military Africa,,
+621,Africa,Nigeria,South Korea,RemoEye-006,UAV,,,,2020.0,Yes,Defense Web,Twitter,,
+622,Africa,Nigeria,China,Blowfish  A3,UAV,,,,2023.0,Yes,Military Africa,Twitter,,
+623,Indo-Pacific,North Korea,China,Sky-09P,UAV,,,,2014.0,Yes,CSD Drone Databook ,Asian Military Review,Defence Talk,Seen in 2014 in South Korean Airspace (via Atlas News)
+624,Indo-Pacific,North Korea,China,UV-10CAM,UAV,,,,2014.0,Yes,CSD Drone Databook ,Oryx,China Bystander,May be NK-produced UAV of Sky-09P design 
+625,Europe,North Macedonia,Israel,Hermes-450,UAV,,,,2013.0,Yes,Photo,RTS,,
+626,Europe,North Macedonia,United States,RQ-11 Raven,UAV,,,,2017.0,Yes,CSD Drone Databook,U.S. Army,,
+627,Europe,North Macedonia,Turkey,Bayraktar TB-2,Armed UAV,2023.0,,,,Interest,Expat Guide Turkey,,,
+628,Europe,Norway,United States,RQ-11B Raven,UAV,,,,2011.0,Yes,UAS Norway,sUAS News,,"AeroVironment generally identifies Norway as buyer of Raven systems, though no specific details of purchase can be identified"
+629,Central,Pakistan,United States,MQ-1 Predator,Armed UAV,2009.0,,,2009.0,No,UPI,Foreign Affairs,Pakistan Military Review,
+630,Central,Pakistan,United States,MQ-1 Predator,Armed UAV,2013.0,,,2013.0,No,Foreign Affairs,Pakistan Military Review,,
+631,Central,Palestine (Hamas),Iran,Ababil A1B,Armed UAV,,,,2014.0,Yes,USIP,Aviationist,,
+632,Central,Palestine (Hamas),Iran,Ababil-2T,Loitering Munition,,,,2021.0,Yes,Oryx,,,USIP refers to a Shehab
+633,Central,Palestine (Hamas),Iran,Jenin,Loitering Munition,,,,2022.0,Yes,Oryx,Oryx,,Same loitering munition as the Jenin used by PIJ 
+634,Central,Palestine (Palestinian Islamic Jihad),Iran,Ababil-2T,Loitering Munition,,,,,Yes,Oryx,,,
+635,Central,Palestine (Palestinian Islamic Jihad),Iran,Jenin,Loitering Munition,,,,,Yes,Oryx,,,
+636,Central,Palestine (Palestinian Islamic Jihad),Iran,Unnamed System,UAV,,,,,Yes,Oryx,,,
+637,Indo-Pacific,Philippines,United States,RQ-11B Raven,UAV,,,,2017.0,Yes,CSD Drone Databook,Flittie Disclosure,,
+638,Europe,Poland,Israel,Hermes-450,UAV,2023.0,,,,Interest,Oryx,,,Watchkeeper X export version; Rumored to be contender for Gryft program
+639,Europe,Poland,Turkey,Akinci,Armed UAV,2023.0,,,,Interest,Oryx,,,Favorite for Zefir program for MALE UCAVs
+640,Europe,Romania,United States,RQ-11 Raven,UAV,,,2014.0,2015.0,Yes,CSD Drone Databook,Flittie Disclosure,,
+641,Europe,Russia,Israel,Heron I,UAV,,,,2010.0,No,Defense Update,Haaretz,CNAS,"From Defense Update: ""However, Israel’s MOD denied the transfer of the larger, more sophisticated Heron I drone Moscow also needed."""
+642,Europe,Russia,Iran,Shahed-131,Loitering Munition,,,,2022.0,Yes,Oryx,RUSI,,Russian designation Geran-1; RUSI reports first sightings in September 2022
+643,Europe,Russia,UAE,Yabhon United-40,Armed UAV,2013.0,,,,Interest,AF Technology,Defense Update,,
+644,Africa,Rwanda ,Turkey,Bayraktar TB-2,Armed UAV,,,,2021.0,Yes,Oryx,Kampala Post,,Oryx reports 2022
+645,Central,Saudi Arabia,Turkey,ANKA,UAV,2013.0,,,,Interest,Defense News,,,
+646,Europe,Serbia,Israel,Orbiter 1,UAV,,,,2008.0,Yes,UNROCA,RUSI,RTS,
+647,Europe,Serbia,Iran,Unnamed System,UAV,2022.0,,,,Interest,C4ISR,Forbes,,"Important to note that Serbia denies it is interested in Iranian drones. Via Forbes: ""Serbia already possesses significant capabilities “to cater to its own needs” and “there is really little Iran could possibly provide it with in terms of either finished UAV products or in know-how.”"
+648,Europe,Serbia,Turkey,Bayraktar TB-2,Armed UAV,2022.0,,,,Interest,C4ISR,Oryx,The Defense Post,
+649,Europe,Slovakia ,Israel,MicroFalcon ,UAV,,,,2017.0,Yes,UNROCA,Arms Trade Treaty Reporting Template,,
+650,Europe,Slovakia ,Israel,MicroFalcon ,UAV,,,,2018.0,Yes,UNROCA,Israel Defense,Press Release,Came as part of sensor upgrade to armored ISR vehicles
+651,Africa,Somalia ,Turkey,Bayraktar TB-2,Armed UAV,,,,2021.0,Yes,SCF,Middle East Eye,ProPublica,
+652,Europe,Spain,United States,RQ-12A Wasp AE,UAV,,,,2012.0,Yes,CSD Drone Databook,ECD,,
+653,Europe,Spain,United States,ScanEagle,UAV,,,,2015.0,Yes,CSD Drone Databook,Ministry of Defense,,
+654,Europe,Spain,Denmark,Huggin X1,UAV,,,,2016.0,Yes,InfoDron,ABC Blogs,,
+655,Europe,Spain,United States,Black Hornet,UAV,,,,2016.0,Yes,CSD Drone Databook,,,
+656,Africa,Sudan,Iran,Mohajer-2,UAV,,,,2008.0,Additional Sources Required,MilitaryAfrica,,,
+657,Africa,Sudan,Iran,Ababil-2,UAV,,,,2011.0,Additional Sources Required,Military Africa,,,
+658,Africa,Sudan,Iran,Mohajer-4,UAV,,,,2011.0,Additional Sources Required,MilitaryAfrica,,,
+659,Africa,Sudan,Iran,Mohajer-6,Armed UAV,,,,2016.0,Additional Sources Required,MilitaryAfrica,Bloomberg,,Bloomberg article reports Mohajer-6 drones delivered in January 2024 [beyond scope of dataset]
+660,Europe,Sweden,Israel,Skylark I-LE,UAV,,,,2007.0,Yes,CSD Drone Databook,Försvarsmakten,DIMSE,"From CSD: ""Referred to as ""Falcon""; Retired 2015"""
+661,Central,Syria,Iran,Mohajer-4,UAV,,,,2012.0,Yes,Alma,WIRED,,"From Alma: Syrian Army purchased 4 UAVs of this model. 
+Via Wired: spotted via satellite in 2012"
+662,Central,Syria,Russia,Forpost,UAV,,,,2013.0,Yes,Russian Source,The Intercept,,
+663,Central,Syria,Russia,Eleron-3SV,UAV,,,,2015.0,Yes,Oryx,,,
+664,Central,Syria,Russia,Orlan-10E,UAV,,,,2015.0,Yes,Oryx,,,
+665,Central,Syria,Russia,Granat-4,UAV,,,,2017.0,Yes,Russian Source,Twitter,,Found Destroyed in Palmyra Region of Syria in 2017
+666,Central,Tajikisatan ,United States,RQ-11 Raven,UAV,,,,2022.0,Yes,Oryx,,,"From Oryx: ""Previously, the U.S. ambassador to Tajikistan, John Mark Pommersheim, stated at a press conference that the United States would provide Puma reconnaissance UAVs to the Tajik border guards"""
+667,Indo-Pacific,Thailand,United States,RQ-11 Raven,UAV,,,,2010.0,Yes,Oryx,,,
+668,Africa,Tunisia,United States,ScanEagle,UAV,,,,2012.0,Yes,CSD Drone Databook,,,
+669,Central,Turkmenistan,Israel,Orbiter-2B,UAV,,,,2010.0,Yes,Oryx,,,"Oryx reports acquisition in ""early 2010s"""
+670,Central,Turkmenistan,Israel,Skylark,UAV,,,,2010.0,Yes,Oryx,Oryx,,"Oryx reports acquisition in ""early 2010s"""
+671,Central,Turkmenistan,Belarus,"Busel M40 ""Calm Sky""",UAV,,,,2013.0,Yes,Oryx,Oryx,,"From Oryx: ""License-produced in Turkmenistan"""
+672,Central,Turkmenistan,Belarus,Busel MB2,Armed UAV,,,,2013.0,Yes,Oryx,Oryx,,"From Oryx ""Armed with F1 grenades and PTAB-2.5 and PFAB-05 small bombs; liscensed production in Turkmenistan"""
+673,Central,Turkmenistan,Belarus,"Busel M ""Calm Sky""",UAV,,,,2015.0,Yes,Oryx,Oryx,,
+674,Central,Turkmenistan,Israel,Orbiter 3,UAV,,,,2017.0,Yes,CSD Drone Databook,,,
+675,Central,Turkmenistan,Belarus,Busel MB1,Loitering Munition,,,,2022.0,Additional Sources Required,Oryx,,,
+676,Europe,Ukraine,Belgium ,Sky-Hero Loki MKII,UAV,,,,2022.0,Yes,Oryx,,,
+677,Europe,Ukraine,Denmark,RQ-35 Heidrun,UAV,,,,2022.0,Yes,Oryx,,,
+678,Europe,Ukraine,Germany,RQ-35 Heidrun,UAV,,,,2022.0,Yes,Oryx,,,"From Oryx: ""Supplied secondhand"""
+679,Europe,Ukraine,Germany,Unnamed System,UAV,,,,2022.0,Yes,Oryx,,,
+680,Europe,Ukraine,Germany,Vectors,UAV,,,,2022.0,Yes,Oryx,,,
+681,Europe,Ukraine,Netherlands,Unnamed System,UAV,,,,2022.0,Yes,Oryx,,,
+682,Europe,Ukraine,Poland,FlyEye,UAV,,,,2022.0,Yes,Oryx,,,
+683,Europe,Ukraine,Portugal,AR3 Net Ray,UAV,,,,2022.0,Yes,Oryx,,,
+684,Europe,Ukraine,Portugal,Unnamed System,UAV,,,,2022.0,Yes,Oryx,,,
+685,Europe,Ukraine,Turkey,Bayraktar Mini ,UAV,,,,2022.0,Yes,Oryx,,,
+686,Europe,Ukraine,United Kingdom/ Norway,Black Hornet,UAV,,,,2022.0,Yes,Oryx,,,
+687,Europe,Ukraine,United States,Golden Eagle,UAV,,,,2022.0,Yes,Popular Mechanics,,,
+688,Europe,Ukraine,United States,Quantix Recon,UAV,,,,2022.0,Yes,Oryx,,,
+689,Europe,Ukraine,Australia,Corvo Precision Payload Delivery System ,Loitering Munition,,,,2023.0,Yes,Business Insider,,,
+690,Europe,Ukraine,Estonia,Unnamed System,UAV,,,,2023.0,Yes,Oryx,,,
+691,Europe,Ukraine,Netherlands,DeltaQuad Pro ,UAV,,,,2023.0,Yes,Oryx,,,
+692,Europe,Ukraine,Portugal,Unnamed System,UAV,,,,2023.0,Yes,Oryx,,,
+693,Europe,Ukraine,Turkey,Bayraktar TB-2,Armed UAV,,,,2023.0,Yes,SIPRI,,,"SIPRI Comments: ""Donated by producer"""
+694,Europe,Ukraine,United Kingdom,Unnamed System,UAV,,,,2023.0,Yes,Oryx,,,
+695,Central,United Arab Emirates,Austria,Camcopter S-100,UAV,,,2005.0,2006.0,Yes,CSD Drone Databook ,Flight Global,,
+696,Central,United Arab Emirates,United States,MQ-9B SkyGuardian ,UAV,,,,2021.0,No,Breaking Defense,,,"From Breaking Defense: ""The UAE decided last December to withdraw its letter of offer acceptance after the Biden administration froze an agreement, cleared by the Trump administration in its last few weeks in office, for the sale of F-35 fifth generation fighters, along with a significant number of precision strike weapons plus 18 MQ-9B aircrafts [sic]. The $23-billion package was halted while the Biden administration pushed the UAE to abandon the use of Chinese firm Huawei’s 5G communications network."""
+697,Europe,United Kingdom,United States,MQ-4C Triton,UAV,2019.0,,,,Interest,SAR 2019,,,
+698,South America,Uruguay,Israel,Skylark I-LE,UAV,2015.0,,,,Interest,Flight Global,,,
+699,Central,Uzbekistan,United States,RQ-11B DDL Raven,UAV,,,,2019.0,Yes,DVIDS,,,
+700,Central,Uzbekistan,Russia,ZALA 421-16E,UAV,,,,2021.0,Yes,Oryx,KUN.UZ,,
+701,Central,Uzbekistan,Israel,SkyStriker,Loitering Munition,,,,2023.0,Yes,Oryx,,,
+702,South America,Venezuela,Iran,Mohajer-2N,UAV,,,,2021.0,Yes,Oryx,,,
+703,South America,Venezuela,Iran,Shahin,UAV,,,,2023.0,Yes,Oryx,,,
+704,South America,Venezuela,Iran,Yazdan,UAV,,,,2023.0,Yes,Oryx,Oryx,,
+705,Indo-Pacific,Vietnam,Israel,Orbiter 2,UAV,,,,2014.0,Yes,SIPRI,,,
+706,Indo-Pacific,Vietnam,Israel,Orbiter 2,UAV,2015.0,,,,Interest,Flight Global,,,Desire to acquire more 
+707,Indo-Pacific,Vietnam,Israel,Orbiter 3,UAV,2015.0,,,,Interest,Flight Global,,,
+708,Central,Yemen,United States,MQ-1 Predator,Armed UAV,2013.0,,,,Interest,Reuters,The Hill,,"No specific system mentioned, but referenced U.S. strikes in region, reasonable to assume interest was in similar capability"
+709,Central,Yemen (Houthi),Iran,Ababil-2T,Loitering Munition,,,2017.0,2019.0,Yes,Oryx,Alma,,Oryx reports two different models of Ababil-2T; 2021 Houthi attack on Abha airbase in KSA believed to be done with Ababil 
+710,Central,Yemen (Houthi),Iran,Samad-1,UAV,,,,2019.0,Yes,Oryx,,,
+711,Central,Yemen (Houthi),Iran,Samad-2,Loitering Munition,,,,2019.0,Yes,Oryx,Oryx,,
+712,Central,Yemen (Houthi),Iran,Samad-3,Loitering Munition,,,,2019.0,Yes,Oryx,,,
+713,Central,Yemen (Houthi),Iran,Khatif-1,Loitering Munition,,,,2021.0,Yes,Oryx,Oryx,,
+714,Central,Yemen (Houthi),Iran,Mirsad 1,UAV,,,,2021.0,Yes,Oryx,,,
+715,Central,Yemen (Houthi),Iran,Samad-4,Armed UAV,,,,2021.0,Yes,Oryx,,,
+716,Central,Yemen (Houthi),Iran,Shahed-136,Loitering Munition,,,,2021.0,Yes,Oryx,,,
+717,Central,Yemen (Houthi),Iran,Shihab,Loitering Munition,,,,2021.0,Yes,Oryx,Oryx,,
+718,Central,Yemen (Houthi),Iran,Khatif-2,Loitering Munition,,,,2022.0,Yes,Oryx,Oryx,,
+719,Central,Yemen (Houthi),Iran,Mirsad 2,UAV,,,,2022.0,Yes,Oryx,,,
+720,Africa,Zambia,Israel,Skylark,UAV,,,,2019.0,Yes,CSD Drone Databook,Janes,,
